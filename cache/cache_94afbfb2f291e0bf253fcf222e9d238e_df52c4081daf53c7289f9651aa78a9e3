@@ -1,0 +1,568 @@
+                       871809709a:2:{s:6:"output";s:17061:"			<div class="componentheading">
+			Dernières news			</div>
+					<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" class="contentpane">
+					<tr>
+				<td width="60%" valign="top" class="contentdescription" colspan="2">
+									<img src="http://www.lc78-escrime.com/images/stories/logoLC78.jpg" align="left" hspace="6" alt="logoLC78.jpg" />
+					Les derni&egrave;res news du LC78 Escrime				</td>
+			</tr>
+					<tr>
+			<td width="100%">
+					<form action="http://www.lc78-escrime.com/content/category/1/1/2/" method="post" name="adminForm">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+				<td colspan="4">
+					<table>
+					<tr>
+													<td align="right" width="100%" nowrap="nowrap">
+								Filtre&nbsp;								<input type="text" name="filter" value="" class="inputbox" onchange="document.adminForm.submit();" />
+							</td>
+														<td align="right" width="100%" nowrap="nowrap">
+								&nbsp;&nbsp;&nbsp;Trier&nbsp;
+<select name="order" class="inputbox" size="1"  onchange="document.adminForm.submit();">
+	<option value="date">Date asc</option>
+	<option value="rdate" selected="selected">Date desc</option>
+	<option value="alpha">Titre asc</option>
+	<option value="ralpha">Titre desc</option>
+	<option value="hits">Clics asc</option>
+	<option value="rhits">Clics desc</option>
+	<option value="author">Auteur asc</option>
+	<option value="rauthor">Auteur desc</option>
+	<option value="order">Ordre</option>
+</select>
+							</td>
+														<td align="right" width="100%" nowrap="nowrap">
+								&nbsp;&nbsp;&nbsp;Affiche #&nbsp;
+<select name="limit" class="inputbox" size="1" onchange="document.location.href='http://www.lc78-escrime.com/content/category/1/1/2/' + this.options[selectedIndex].value + '/0/';">
+	<option value="5">5</option>
+	<option value="10">10</option>
+	<option value="15">15</option>
+	<option value="20">20</option>
+	<option value="25">25</option>
+	<option value="30">30</option>
+	<option value="50" selected="selected">50</option>
+</select>
+							</td>
+												</tr>
+					</table>
+				</td>
+			</tr>
+						<tr>
+									<td class="sectiontableheader" width="35%">
+						Date					</td>
+										<td class="sectiontableheader">
+						Titre de la publication					</td>
+										<td class="sectiontableheader" align="left" width="25%">
+						Auteur					</td>
+										<td align="center" class="sectiontableheader" width="5%">
+						Clics					</td>
+								</tr>
+						<tr class="sectiontableentry1" >
+									<td>
+					02-05-2013					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/571/2/">
+						Passage des blasons						</a>
+												</td>
+											<td align="left">
+					Thomas Raso					</td>
+										<td align="center">
+					16					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					21-04-2013					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/570/2/">
+						Equipe cadettes 1 qualifiée aux France						</a>
+												</td>
+											<td align="left">
+					Jean-Yves Huet					</td>
+										<td align="center">
+					29					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					18-04-2013					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/569/2/">
+						Entrainement pupilles à la mini épée						</a>
+												</td>
+											<td align="left">
+					Thomas Raso					</td>
+										<td align="center">
+					44					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					09-04-2013					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/568/2/">
+						11 tireurs qualifiés minimes et cadets						</a>
+												</td>
+											<td align="left">
+					Jean-Yves Huet					</td>
+										<td align="center">
+					51					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					26-03-2013					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/565/2/">
+						Equipe de france Handisport						</a>
+												</td>
+											<td align="left">
+					Jean-Yves Huet					</td>
+										<td align="center">
+					63					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					26-03-2013					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/564/2/">
+						BRAVO aux MINIMES						</a>
+												</td>
+											<td align="left">
+					Jean-Yves Huet					</td>
+										<td align="center">
+					75					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					18-02-2013					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/560/2/">
+						Equipes  cadets						</a>
+												</td>
+											<td align="left">
+					Jean-Yves Huet					</td>
+										<td align="center">
+					130					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					04-02-2013					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/559/2/">
+						Quart de finale Horizon 2020						</a>
+												</td>
+											<td align="left">
+					Jean-Yves Huet					</td>
+										<td align="center">
+					165					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					01-01-2013					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/556/2/">
+						BONNE ET HEUREUSE ANNEE 2013						</a>
+												</td>
+											<td align="left">
+					Jean-Yves Huet					</td>
+										<td align="center">
+					176					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					26-12-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/550/2/">
+						Qualification de Solenn MARUENDA pour Bratislava						</a>
+												</td>
+											<td align="left">
+					Jean-Yves Huet					</td>
+										<td align="center">
+					156					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					26-12-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/549/2/">
+						L'equipe des garçons qualifiée en quart de final N1						</a>
+												</td>
+											<td align="left">
+					Jean-Yves Huet					</td>
+										<td align="center">
+					169					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					28-11-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/548/2/">
+						Résultat benjamine et AG						</a>
+												</td>
+											<td align="left">
+					Thomas Raso					</td>
+										<td align="center">
+					196					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					03-09-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/547/2/">
+						Entrainements physiques incontournables!						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					347					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					06-06-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/546/2/">
+						REINSCRIPTION SAISON 2012-2013						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					492					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					31-05-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/545/2/">
+						Joli mois de mai!						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					430					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					24-04-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/544/2/">
+						VIVA pour THEO !!!!						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					548					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					10-04-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/543/2/">
+						Les cloches de la victoire						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					626					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					03-04-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/542/2/">
+						Grigris pour JY ;-)						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					506					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					27-03-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/541/2/">
+						Beau temps sur le Chesnay!						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					335					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					06-03-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/540/2/">
+						Déjà le printemps pour nos tireurs?						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					657					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					13-02-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/539/2/">
+						Dernières nouvelles						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					681					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					10-02-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/538/2/">
+						Nouveau Bureau						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					384					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					06-02-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/537/2/">
+						Week-end faste pour nos tireurs						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					589					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					03-02-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/536/2/">
+						Le Chesnay Escrime, un club intemporel, comme le rêve						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					451					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					30-01-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/535/2/">
+						Nouvelle année, nouveaux challenges						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					693					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					22-01-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/533/2/">
+						L'année commence bien!						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					655					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					15-12-2011					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/531/2/">
+						Le père Noël généreux en résultats						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					602					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					21-11-2011					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/530/2/">
+						Des résultats extraordinaires						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					697					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					17-11-2011					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/529/2/">
+						Hommage à eux						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					528					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					15-11-2011					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/528/2/">
+						Championnat de France par équipe  senior N1						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					661					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					08-11-2011					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/527/2/">
+						1/8 Finales N1						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					414					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					23-10-2011					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/526/2/">
+						Beaucoup de compétitions avant et après la trève						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					540					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					10-10-2011					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/525/2/">
+						Championnats du Monde de Catane						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					420					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					09-10-2011					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/524/2/">
+						Circuits Nationaux Senior						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					486					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					24-09-2011					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/523/2/">
+						Premières compétitions de l'année						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					466					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					18-09-2011					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/522/2/">
+						Equipe de France Epée Homme au Chesnay						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					559					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					08-09-2011					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/520/2/">
+						C’est la Rentrée !!!						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					491					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					25-03-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/111/2/">
+						Organigramme du bureau						</a>
+												</td>
+											<td align="left">
+					Thomas Raso					</td>
+										<td align="center">
+					4992					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					16-08-2007					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/12/2/">
+						Encadrement						</a>
+												</td>
+											<td align="left">
+					Thomas Raso					</td>
+										<td align="center">
+					7893					</td>
+						</tr>
+					<tr>
+				<td colspan="4">&nbsp;</td>
+			</tr>
+			<tr>
+				<td align="center" colspan="4" class="sectiontablefooter">
+				<span class="pagenav">&lt;&lt;&nbsp;Début</span> <span class="pagenav">&lt;&nbsp;Précédente</span> <span class="pagenav">1</span> <span class="pagenav">Suivante&nbsp;&gt;</span> <span class="pagenav">Fin&nbsp;&gt;&gt;</span>				</td>
+			</tr>
+			<tr>
+				<td colspan="4" align="right">
+				Résultats 1 - 39 sur 39				</td>
+			</tr>
+					</table>
+		<input type="hidden" name="id" value="1" />
+		<input type="hidden" name="sectionid" value="1" />
+		<input type="hidden" name="task" value="category" />
+		<input type="hidden" name="option" value="com_content" />
+		</form>
+					</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+					<ul>
+						<li>
+											<a href="http://www.lc78-escrime.com/content/category/1/31/2/" class="category">
+							Archives</a>
+													&nbsp;<i>( 58 items )</i>
+											</li>
+								<li>
+											<a href="http://www.lc78-escrime.com/content/category/1/30/2/" class="category">
+							Brève du Dindon</a>
+													&nbsp;<i>( 1 items )</i>
+											</li>
+						</ul>
+					</td>
+		</tr>
+		</table>
+					<div class="back_button">
+				<a href='javascript:history.go(-1)'>
+					[&nbsp;Retour&nbsp;]</a>
+			</div>
+			";s:6:"result";N;}

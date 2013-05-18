@@ -1,0 +1,67 @@
+<?php
+	include("http://julia:3000/CEG_manager/includes/header.inc");
+?>
+	<div id="content">
+	
+		<form action="#" method="GET">
+
+		<table class="user">
+			<tr class="entete">
+				<th colspan="2">Informations sur le compte</th>
+			</tr>
+			<tr class="requis">
+				<th scope="row">Identifiant*</th>
+				<td><input name="unnom" type="text" size="12" maxlength="12" /></td>
+			</tr>
+			<tr class="requis">
+				<th scope="row">Mot de passe*</th>
+				<td><input name="motdepasse" type="text" size="12" maxlength="12" /></td>
+			</tr>
+			<tr class="requis">
+				<th scope="row">Confirmez le mot de passe*</th>
+				<td><input name="motdepasse2" type="text" size="12" maxlength="12" /></td>
+			</tr>
+			<tr class="requis">
+				<th scope="row">Adresse Email*</th>
+				<td><input name="motdepasse" type="text" /></td>
+			</tr>
+			<tr class="requis">
+				<th scope="row">Confirmez l'adresse Email*</th>
+				<td><input name="motdepasse" type="text" /></td>
+			</tr>
+			<tr class="entete">
+				<th colspan="2">Informations personnelles</th>
+			</tr>
+						<tr class="requis">
+				<th scope="row">Confirmez le mot de passe*</th>
+				<td><input name="motdepasse2" type="text" size="12" maxlength="12" /></td>
+			</tr>
+			<tr>
+				<th scope="row">Adresse Email*</th>
+				<td><input name="motdepasse" type="text" size="12" maxlength="12" /></td>
+			</tr>
+			<tr>
+				<th scope="row">Confirmez l'adresse Email*</th>
+				<td><input name="motdepasse" type="text" size="12" maxlength="12" /></td>
+			</tr>
+			
+		</table>
+		
+						<div class="form-control">
+							<input type="submit" value="Valider" class="form-submit"/>
+							<input type="reset" value="Effacer" class="form-reset"/>
+				</div>
+		</form>
+	
+		
+		
+		<div id="footer">
+				<p>
+					<a href="mailto:kikine_33@hotmail.com?subject=CEG_Manager">Réalisation T. Raso</a>
+				</p>
+		</div>
+		
+	</div>
+	
+</body>
+</html>

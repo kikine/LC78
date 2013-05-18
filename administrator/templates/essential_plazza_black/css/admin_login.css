@@ -1,0 +1,121 @@
+/**
+* @version $Id: admin_login.css 3551 2006-05-18 20:23:01Z stingrey $
+* @package Joomla
+* @copyright Copyright (C) 2005 Open Source Matters. All rights reserved.
+* @license http://www.gnu.org/copyleft/gpl.html GNU/GPL, see LICENSE.php
+* Joomla! is free software and parts of it may contain or be derived from works
+* licensed under the GNU General Public License or other free or open source
+* software licenses. See COPYRIGHT.php for copyright notices and details.
+*/
+
+body {
+	margin: 0px;
+	padding: 0px;
+	color : #333;
+	background-color : #333;
+	font-size : 11px;
+	font-family : Tahoma,Arial, Helvetica, sans-serif;
+
+}
+
+form {
+    margin: 0px;
+}
+.button {
+border:none;
+	background: url(../images/bgbutton.gif) no-repeat;
+	color : #fff;
+	font-weight : bold;
+	font-size : 11px;
+	padding: 4px;
+	height:24px;
+	width:97px;
+}
+
+.login {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 6em;
+	width: 500px;
+	background:url(../images/login.gif) no-repeat;
+		height:337px;
+		overflow:hidden;
+		color:#fff;
+}
+.login p {
+	padding: 0 1em 0 1em;
+	}
+	
+.form-block {
+	border: 1px solid #cccccc;
+	background: #E9ECEF;
+	padding-top: 15px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+}
+
+.login-form {
+	text-align: left;
+	margin-top:95px;
+	margin-left:210px;
+}
+
+.login-text {
+	text-align: left;
+
+	float: left;
+}
+
+.inputlabel {
+	font-weight: bold;
+	text-align: left;
+	}
+
+.inputboxusr {
+	width: 150px;
+	margin: 0 0 1em 0;
+	border: 1px solid  #333333;
+	background:url(../images/bginputusr.gif) no-repeat top right;
+	}
+.inputboxpwd {
+	width: 150px;
+	margin: 0 0 1em 0;
+	border: 1px solid  #333333;
+	background:url(../images/bginputpwd.gif)  no-repeat top right;
+	}
+
+.clr {
+    clear:both;
+    }
+
+.ctr {
+	text-align: center;
+}
+
+.version {
+	font-size: 0.8em;
+}
+.footer {
+	text-indent:-5000px;
+
+
+}
+.footer div {
+ 	color:#ccc;
+
+}
+.footer div a { color:#FFFFFF;
+	text-decoration:none;
+	font-weight:bold;}
+
+.message {
+	margin-top: 10px; 
+	padding: 7px; 
+	width: 400px;
+	border: 1px solid #B22222;
+	background: #F1F3F5;
+	color: #ccc;	
+	font-weight: bold;
+	font-size: 13px;
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="template" version="1.0.x" client="administrator">
+	<name>Essential Plazza Black</name>
+	<creationDate>17/01/2007</creationDate>
+	<author>Andy Sikumbang</author>
+	<copyright>GNU/GPL</copyright>
+	<authorEmail>plazza@templateplazza.com</authorEmail>
+	<authorUrl>www.templateplazza.com</authorUrl>
+	<version>1.0</version>
+	<description>
+	<![CDATA[Le Template d'administration gratuit de TemplatePlazza.com. <br />
+<ul>
+<li>Pour activer la fonction de recherche, vous avez besoin d'installer le composant Backend ContentSearch. Vous pouvez le télécharger sur <strong><a target="_blank" href="http://knopf-consulting.de//opensource/com_backendcontentsearch.zip"> http://www.knopf-consulting.de</a></strong></li>
+<li>Si vous voulez modifier le look de Essential Plazza, le fichier *.psd (déjà découpée) est disponible sur <a target="_blank" href="http://www.templateplazza.com"> http://www.templateplazza.com</li>
+</ul> ]]>
+	
+</description>
+	<files>
+		<filename>templateDetails.xml</filename>
+		<filename>cpanel.php</filename>
+		<filename>index.html</filename>
+		<filename>index.php</filename>
+		<filename>login.php</filename>		
+	</files>
+	<images>
+		<filename>images/arrow.png</filename>
+		<filename>images/background.gif</filename>
+		<filename>images/backlist.gif</filename>
+		<filename>images/menubg-r.gif</filename>
+		<filename>images/bodytop.gif</filename>
+		<filename>images/header_icon.png</filename>
+		<filename>images/install_logo.png</filename>
+		<filename>images/login.gif</filename>
+		<filename>images/bodymid.gif</filename>
+		<filename>images/arrow.gif</filename>
+		<filename>images/bgtop-mid.gif</filename>
+		<filename>images/corners.gif</filename>
+		<filename>images/round2.gif</filename>
+		<filename>images/menubg-m.gif</filename>
+		<filename>images/menubg-l.gif</filename>
+		<filename>images/bgbutton.gif</filename>
+		<filename>images/bsearch.gif</filename>
+		<filename>images/logo.gif</filename>
+		<filename>images/bginput.gif</filename>
+		<filename>images/bodybot.gif</filename>
+		<filename>images/round.gif</filename>
+		<filename>images/bgtop-left.gif</filename>
+		<filename>images/bgtop-right.gif</filename>
+		<filename>images/background.jpg</filename>
+		<filename>images/bginputpwd.gif</filename>
+		<filename>images/bginputusr.gif</filename>
+		<filename>template_thumbnail.png</filename>
+	</images>
+	<css>
+		<filename>css/admin_login.css</filename>
+		<filename>css/template_css.css</filename>
+		<filename>css/theme.css</filename>
+	</css>
+</mosinstall>

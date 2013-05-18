@@ -1,0 +1,220 @@
+                     -1715248759a:2:{s:6:"output";s:7771:"			<div class="componentheading">
+			Dernières news			</div>
+					<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" class="contentpane">
+					<tr>
+				<td width="60%" valign="top" class="contentdescription" colspan="2">
+									<img src="http://www.lc78-escrime.com/images/stories/logoLC78.jpg" align="left" hspace="6" alt="logoLC78.jpg" />
+					Les derni&egrave;res news du LC78 Escrime				</td>
+			</tr>
+					<tr>
+			<td width="100%">
+					<form action="http://www.lc78-escrime.com/content/category/1/1/2/" method="post" name="adminForm">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+				<td colspan="4">
+					<table>
+					<tr>
+													<td align="right" width="100%" nowrap="nowrap">
+								Filtre&nbsp;								<input type="text" name="filter" value="" class="inputbox" onchange="document.adminForm.submit();" />
+							</td>
+														<td align="right" width="100%" nowrap="nowrap">
+								&nbsp;&nbsp;&nbsp;Trier&nbsp;
+<select name="order" class="inputbox" size="1"  onchange="document.adminForm.submit();">
+	<option value="date">Date asc</option>
+	<option value="rdate" selected="selected">Date desc</option>
+	<option value="alpha">Titre asc</option>
+	<option value="ralpha">Titre desc</option>
+	<option value="hits">Clics asc</option>
+	<option value="rhits">Clics desc</option>
+	<option value="author">Auteur asc</option>
+	<option value="rauthor">Auteur desc</option>
+	<option value="order">Ordre</option>
+</select>
+							</td>
+														<td align="right" width="100%" nowrap="nowrap">
+								&nbsp;&nbsp;&nbsp;Affiche #&nbsp;
+<select name="limit" class="inputbox" size="1" onchange="document.location.href='http://www.lc78-escrime.com/content/category/1/1/2/' + this.options[selectedIndex].value + '/15/';">
+	<option value="5">5</option>
+	<option value="10" selected="selected">10</option>
+	<option value="15">15</option>
+	<option value="20">20</option>
+	<option value="25">25</option>
+	<option value="30">30</option>
+	<option value="50">50</option>
+</select>
+							</td>
+												</tr>
+					</table>
+				</td>
+			</tr>
+						<tr>
+									<td class="sectiontableheader" width="35%">
+						Date					</td>
+										<td class="sectiontableheader">
+						Titre de la publication					</td>
+										<td class="sectiontableheader" align="left" width="25%">
+						Auteur					</td>
+										<td align="center" class="sectiontableheader" width="5%">
+						Clics					</td>
+								</tr>
+						<tr class="sectiontableentry1" >
+									<td>
+					24-04-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/544/2/">
+						VIVA pour THEO !!!!						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					546					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					10-04-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/543/2/">
+						Les cloches de la victoire						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					619					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					03-04-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/542/2/">
+						Grigris pour JY ;-)						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					504					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					27-03-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/541/2/">
+						Beau temps sur le Chesnay!						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					335					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					06-03-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/540/2/">
+						Déjà le printemps pour nos tireurs?						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					647					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					13-02-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/539/2/">
+						Dernières nouvelles						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					677					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					10-02-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/538/2/">
+						Nouveau Bureau						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					383					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					06-02-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/537/2/">
+						Week-end faste pour nos tireurs						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					586					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					03-02-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/536/2/">
+						Le Chesnay Escrime, un club intemporel, comme le rêve						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					446					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					30-01-2012					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/535/2/">
+						Nouvelle année, nouveaux challenges						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					689					</td>
+						</tr>
+					<tr>
+				<td colspan="4">&nbsp;</td>
+			</tr>
+			<tr>
+				<td align="center" colspan="4" class="sectiontablefooter">
+				<a href="http://www.lc78-escrime.com/content/category/1/1/2/10/0/" class="pagenav" title="Début">&lt;&lt;&nbsp;Début</a> <a href="http://www.lc78-escrime.com/content/category/1/1/2/10/0/" class="pagenav" title="Précédente">&lt;&nbsp;Précédente</a> <a href="http://www.lc78-escrime.com/content/category/1/1/2/10/0/" class="pagenav"><strong>1</strong></a> <span class="pagenav">2</span> <a href="http://www.lc78-escrime.com/content/category/1/1/2/10/20/" class="pagenav"><strong>3</strong></a> <a href="http://www.lc78-escrime.com/content/category/1/1/2/10/30/" class="pagenav"><strong>4</strong></a> <a href="http://www.lc78-escrime.com/content/category/1/1/2/10/20/ " class="pagenav" title="Suivante">Suivante&nbsp;&gt;</a> <a href="http://www.lc78-escrime.com/content/category/1/1/2/10/30/ " class="pagenav" title="Fin">Fin&nbsp;&gt;&gt;</a>				</td>
+			</tr>
+			<tr>
+				<td colspan="4" align="right">
+				Résultats 16 - 25 sur 39				</td>
+			</tr>
+					</table>
+		<input type="hidden" name="id" value="1" />
+		<input type="hidden" name="sectionid" value="1" />
+		<input type="hidden" name="task" value="category" />
+		<input type="hidden" name="option" value="com_content" />
+		</form>
+					</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+					<ul>
+						<li>
+											<a href="http://www.lc78-escrime.com/content/category/1/31/2/" class="category">
+							Archives</a>
+													&nbsp;<i>( 58 items )</i>
+											</li>
+								<li>
+											<a href="http://www.lc78-escrime.com/content/category/1/30/2/" class="category">
+							Brève du Dindon</a>
+													&nbsp;<i>( 1 items )</i>
+											</li>
+						</ul>
+					</td>
+		</tr>
+		</table>
+					<div class="back_button">
+				<a href='javascript:history.go(-1)'>
+					[&nbsp;Retour&nbsp;]</a>
+			</div>
+			";s:6:"result";N;}

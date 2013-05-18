@@ -1,0 +1,160 @@
+                     -1477783162a:2:{s:6:"output";s:6346:"			<div class="componentheading">
+			Dernières news			</div>
+					<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" class="contentpane">
+					<tr>
+				<td width="60%" valign="top" class="contentdescription" colspan="2">
+									<img src="http://www.lc78-escrime.com/images/stories/logoLC78.jpg" align="left" hspace="6" alt="logoLC78.jpg" />
+					Les derni&egrave;res news du LC78 Escrime				</td>
+			</tr>
+					<tr>
+			<td width="100%">
+					<form action="http://www.lc78-escrime.com/content/category/1/1/2/" method="post" name="adminForm">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+				<td colspan="4">
+					<table>
+					<tr>
+													<td align="right" width="100%" nowrap="nowrap">
+								Filtre&nbsp;								<input type="text" name="filter" value="" class="inputbox" onchange="document.adminForm.submit();" />
+							</td>
+														<td align="right" width="100%" nowrap="nowrap">
+								&nbsp;&nbsp;&nbsp;Trier&nbsp;
+<select name="order" class="inputbox" size="1"  onchange="document.adminForm.submit();">
+	<option value="date">Date asc</option>
+	<option value="rdate" selected="selected">Date desc</option>
+	<option value="alpha">Titre asc</option>
+	<option value="ralpha">Titre desc</option>
+	<option value="hits">Clics asc</option>
+	<option value="rhits">Clics desc</option>
+	<option value="author">Auteur asc</option>
+	<option value="rauthor">Auteur desc</option>
+	<option value="order">Ordre</option>
+</select>
+							</td>
+														<td align="right" width="100%" nowrap="nowrap">
+								&nbsp;&nbsp;&nbsp;Affiche #&nbsp;
+<select name="limit" class="inputbox" size="1" onchange="document.location.href='http://www.lc78-escrime.com/content/category/1/1/2/' + this.options[selectedIndex].value + '/0/';">
+	<option value="5" selected="selected">5</option>
+	<option value="10">10</option>
+	<option value="15">15</option>
+	<option value="20">20</option>
+	<option value="25">25</option>
+	<option value="30">30</option>
+	<option value="50">50</option>
+</select>
+							</td>
+												</tr>
+					</table>
+				</td>
+			</tr>
+						<tr>
+									<td class="sectiontableheader" width="35%">
+						Date					</td>
+										<td class="sectiontableheader">
+						Titre de la publication					</td>
+										<td class="sectiontableheader" align="left" width="25%">
+						Auteur					</td>
+										<td align="center" class="sectiontableheader" width="5%">
+						Clics					</td>
+								</tr>
+						<tr class="sectiontableentry1" >
+									<td>
+					02-05-2013					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/571/2/">
+						Passage des blasons						</a>
+												</td>
+											<td align="left">
+					Thomas Raso					</td>
+										<td align="center">
+					9					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					21-04-2013					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/570/2/">
+						Equipe cadettes 1 qualifiée aux France						</a>
+												</td>
+											<td align="left">
+					Jean-Yves Huet					</td>
+										<td align="center">
+					22					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					18-04-2013					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/569/2/">
+						Entrainement pupilles à la mini épée						</a>
+												</td>
+											<td align="left">
+					Thomas Raso					</td>
+										<td align="center">
+					38					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					09-04-2013					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/568/2/">
+						11 tireurs qualifiés minimes et cadets						</a>
+												</td>
+											<td align="left">
+					Jean-Yves Huet					</td>
+										<td align="center">
+					43					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					26-03-2013					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/565/2/">
+						Equipe de france Handisport						</a>
+												</td>
+											<td align="left">
+					Jean-Yves Huet					</td>
+										<td align="center">
+					54					</td>
+						</tr>
+					<tr>
+				<td colspan="4">&nbsp;</td>
+			</tr>
+			<tr>
+				<td align="center" colspan="4" class="sectiontablefooter">
+				<span class="pagenav">&lt;&lt;&nbsp;Début</span> <span class="pagenav">&lt;&nbsp;Précédente</span> <span class="pagenav">1</span> <a href="http://www.lc78-escrime.com/content/category/1/1/2/5/5/" class="pagenav"><strong>2</strong></a> <a href="http://www.lc78-escrime.com/content/category/1/1/2/5/10/" class="pagenav"><strong>3</strong></a> <a href="http://www.lc78-escrime.com/content/category/1/1/2/5/15/" class="pagenav"><strong>4</strong></a> <a href="http://www.lc78-escrime.com/content/category/1/1/2/5/20/" class="pagenav"><strong>5</strong></a> <a href="http://www.lc78-escrime.com/content/category/1/1/2/5/25/" class="pagenav"><strong>6</strong></a> <a href="http://www.lc78-escrime.com/content/category/1/1/2/5/30/" class="pagenav"><strong>7</strong></a> <a href="http://www.lc78-escrime.com/content/category/1/1/2/5/35/" class="pagenav"><strong>8</strong></a> <a href="http://www.lc78-escrime.com/content/category/1/1/2/5/5/ " class="pagenav" title="Suivante">Suivante&nbsp;&gt;</a> <a href="http://www.lc78-escrime.com/content/category/1/1/2/5/35/ " class="pagenav" title="Fin">Fin&nbsp;&gt;&gt;</a>				</td>
+			</tr>
+			<tr>
+				<td colspan="4" align="right">
+				Résultats 1 - 5 sur 39				</td>
+			</tr>
+					</table>
+		<input type="hidden" name="id" value="1" />
+		<input type="hidden" name="sectionid" value="1" />
+		<input type="hidden" name="task" value="category" />
+		<input type="hidden" name="option" value="com_content" />
+		</form>
+					</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+					<ul>
+						<li>
+											<a href="http://www.lc78-escrime.com/content/category/1/31/2/" class="category">
+							Archives</a>
+													&nbsp;<i>( 58 items )</i>
+											</li>
+								<li>
+											<a href="http://www.lc78-escrime.com/content/category/1/30/2/" class="category">
+							Brève du Dindon</a>
+													&nbsp;<i>( 1 items )</i>
+											</li>
+						</ul>
+					</td>
+		</tr>
+		</table>
+					<div class="back_button">
+				<a href='javascript:history.go(-1)'>
+					[&nbsp;Retour&nbsp;]</a>
+			</div>
+			";s:6:"result";N;}

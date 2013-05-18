@@ -1,0 +1,339 @@
+                     -1956157936a:2:{s:6:"output";s:10447:"			<div class="componentheading">
+			Ligue			</div>
+					<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" class="contentpane">
+					<tr>
+				<td width="60%" valign="top" class="contentdescription" colspan="2">
+								</td>
+			</tr>
+					<tr>
+			<td width="100%">
+					<form action="http://www.lc78-escrime.com/content/category/4/24/38/" method="post" name="adminForm">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+				<td colspan="4">
+					<table>
+					<tr>
+													<td align="right" width="100%" nowrap="nowrap">
+								Filtre&nbsp;								<input type="text" name="filter" value="" class="inputbox" onchange="document.adminForm.submit();" />
+							</td>
+														<td align="right" width="100%" nowrap="nowrap">
+								&nbsp;&nbsp;&nbsp;Trier&nbsp;
+<select name="order" class="inputbox" size="1"  onchange="document.adminForm.submit();">
+	<option value="date">Date asc</option>
+	<option value="rdate" selected="selected">Date desc</option>
+	<option value="alpha">Titre asc</option>
+	<option value="ralpha">Titre desc</option>
+	<option value="hits">Clics asc</option>
+	<option value="rhits">Clics desc</option>
+	<option value="author">Auteur asc</option>
+	<option value="rauthor">Auteur desc</option>
+	<option value="order">Ordre</option>
+</select>
+							</td>
+														<td align="right" width="100%" nowrap="nowrap">
+								&nbsp;&nbsp;&nbsp;Affiche #&nbsp;
+<select name="limit" class="inputbox" size="1" onchange="document.location.href='http://www.lc78-escrime.com/content/category/4/24/38/' + this.options[selectedIndex].value + '/0/';">
+	<option value="5">5</option>
+	<option value="10">10</option>
+	<option value="15">15</option>
+	<option value="20">20</option>
+	<option value="25">25</option>
+	<option value="30">30</option>
+	<option value="50" selected="selected">50</option>
+</select>
+							</td>
+												</tr>
+					</table>
+				</td>
+			</tr>
+						<tr>
+									<td class="sectiontableheader" width="35%">
+						Date					</td>
+										<td class="sectiontableheader">
+						Titre de la publication					</td>
+										<td class="sectiontableheader" align="left" width="25%">
+						Auteur					</td>
+										<td align="center" class="sectiontableheader" width="5%">
+						Clics					</td>
+								</tr>
+						<tr class="sectiontableentry1" >
+									<td>
+					22-01-2010					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/447/38/">
+						EHS épée hommes seniors 2009/2010						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					302					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					22-01-2010					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/446/38/">
+						EHJ épée hommes juniors  2009/2010						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					307					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					22-01-2010					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/445/38/">
+						EHC épée hommes cadets 2009/2010						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					308					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					22-01-2010					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/444/38/">
+						EHM épée hommes minimes 2009/2010						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					356					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					22-01-2010					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/443/38/">
+						EHB épée hommes bejamins 2009/2010						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					340					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					22-01-2010					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/442/38/">
+						EDS épée dames seniors 2009/2010						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					300					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					22-01-2010					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/441/38/">
+						EDJ épée dames juniors 2009/2010						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					315					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					22-01-2010					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/440/38/">
+						EDC épée dames cadettes 2009/2010						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					329					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					22-01-2010					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/439/38/">
+						EDM épée dames minimes 2009/2010						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					322					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					22-01-2010					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/438/38/">
+						EDB Classement ligue 2009/2010						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					299					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					29-01-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/69/38/">
+						EDC Epée Dame Cadette						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					759					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					10-01-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/42/38/">
+						EDS Epée Dame Senior						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					509					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					10-01-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/41/38/">
+						EHS Epée Homme Senior						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					530					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					10-01-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/40/38/">
+						EHJ Epée Homme Junior						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					506					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					10-01-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/39/38/">
+						EDJ Epée Dame Junior						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					916					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					10-01-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/38/38/">
+						EHC Epée Homme Cadet						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					736					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					10-01-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/37/38/">
+						EHM Epée Homme Minime						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					534					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					09-01-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/36/38/">
+						EDM Epée Dame Minime						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					598					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					09-01-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/35/38/">
+						EDB Epée Dame Benjamine						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					561					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					09-01-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/34/38/">
+						EHB Epée Homme Benjamin						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					513					</td>
+						</tr>
+					<tr>
+				<td colspan="4">&nbsp;</td>
+			</tr>
+			<tr>
+				<td align="center" colspan="4" class="sectiontablefooter">
+				<span class="pagenav">&lt;&lt;&nbsp;Début</span> <span class="pagenav">&lt;&nbsp;Précédente</span> <span class="pagenav">1</span> <span class="pagenav">Suivante&nbsp;&gt;</span> <span class="pagenav">Fin&nbsp;&gt;&gt;</span>				</td>
+			</tr>
+			<tr>
+				<td colspan="4" align="right">
+				Résultats 1 - 20 sur 20				</td>
+			</tr>
+					</table>
+		<input type="hidden" name="id" value="24" />
+		<input type="hidden" name="sectionid" value="4" />
+		<input type="hidden" name="task" value="category" />
+		<input type="hidden" name="option" value="com_content" />
+		</form>
+					</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+					<ul>
+						<li>
+											<a href="http://www.lc78-escrime.com/content/category/4/33/38/" class="category">
+							Archives 2007-2008</a>
+													&nbsp;<i>( 22 items )</i>
+											</li>
+								<li>
+											<a href="http://www.lc78-escrime.com/content/category/4/25/38/" class="category">
+							National</a>
+													&nbsp;<i>( 24 items )</i>
+											</li>
+						</ul>
+					</td>
+		</tr>
+		</table>
+					<div class="back_button">
+				<a href='javascript:history.go(-1)'>
+					[&nbsp;Retour&nbsp;]</a>
+			</div>
+			";s:6:"result";N;}

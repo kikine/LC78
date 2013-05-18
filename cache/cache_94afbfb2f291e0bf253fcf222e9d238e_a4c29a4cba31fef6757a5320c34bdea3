@@ -1,0 +1,699 @@
+                      1050113922a:2:{s:6:"output";s:21141:"			<div class="componentheading">
+			Archives			</div>
+					<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" class="contentpane">
+					<tr>
+				<td width="60%" valign="top" class="contentdescription" colspan="2">
+								</td>
+			</tr>
+					<tr>
+			<td width="100%">
+					<form action="http://www.lc78-escrime.com/content/category/1/31/2/" method="post" name="adminForm">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+				<td colspan="4">
+					<table>
+					<tr>
+													<td align="right" width="100%" nowrap="nowrap">
+								Filtre&nbsp;								<input type="text" name="filter" value="" class="inputbox" onchange="document.adminForm.submit();" />
+							</td>
+														<td align="right" width="100%" nowrap="nowrap">
+								&nbsp;&nbsp;&nbsp;Trier&nbsp;
+<select name="order" class="inputbox" size="1"  onchange="document.adminForm.submit();">
+	<option value="date">Date asc</option>
+	<option value="rdate" selected="selected">Date desc</option>
+	<option value="alpha">Titre asc</option>
+	<option value="ralpha">Titre desc</option>
+	<option value="hits">Clics asc</option>
+	<option value="rhits">Clics desc</option>
+	<option value="author">Auteur asc</option>
+	<option value="rauthor">Auteur desc</option>
+	<option value="order">Ordre</option>
+</select>
+							</td>
+														<td align="right" width="100%" nowrap="nowrap">
+								&nbsp;&nbsp;&nbsp;Affiche #&nbsp;
+<select name="limit" class="inputbox" size="1" onchange="document.location.href='http://www.lc78-escrime.com/content/category/1/31/2/' + this.options[selectedIndex].value + '/0/';">
+	<option value="5">5</option>
+	<option value="10">10</option>
+	<option value="15">15</option>
+	<option value="20">20</option>
+	<option value="25">25</option>
+	<option value="30">30</option>
+	<option value="50" selected="selected">50</option>
+</select>
+							</td>
+												</tr>
+					</table>
+				</td>
+			</tr>
+						<tr>
+									<td class="sectiontableheader" width="35%">
+						Date					</td>
+										<td class="sectiontableheader">
+						Titre de la publication					</td>
+										<td class="sectiontableheader" align="left" width="25%">
+						Auteur					</td>
+										<td align="center" class="sectiontableheader" width="5%">
+						Clics					</td>
+								</tr>
+						<tr class="sectiontableentry1" >
+									<td>
+					31-05-2011					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/512/2/">
+						Le Maintien en N1						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					688					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					17-05-2011					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/510/2/">
+						Les Qualifiés pour les différents Championnats de France						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					950					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					15-05-2011					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/509/2/">
+						Erwan Fonson médaillé aux Championnats du Monde						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					1937					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					15-05-2011					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/508/2/">
+						Seconde place aux France Juniors						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					1574					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					09-05-2011					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/507/2/">
+						Une belle seconde place aux Championnats de France Junior						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					677					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					09-05-2011					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/506/2/">
+						Erwan FONSON : Chenaysien médaillé de Bronze aux Championnats du Monde Junior						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					401					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					01-05-2011					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/504/2/">
+						Les filles ne chôment pas						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					1056					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					28-03-2011					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/503/2/">
+						Une fin de premier trimestre prometteur…						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					1482					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					16-01-2011					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/502/2/">
+						Un début d'année prometteur						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					1989					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					06-12-2010					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/501/2/">
+						Brève du 06/12/2010						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					604					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					12-11-2010					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/496/2/">
+						Billet du Dindon 12/11/10						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					474					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					03-11-2010					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/494/2/">
+						Billet du Dindon 3/11/10						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					468					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					25-10-2010					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/492/2/">
+						Billet du Dindon 25/10/10						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					409					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					14-06-2010					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/483/2/">
+						Fête du Club						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					570					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					10-06-2010					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/480/2/">
+						Billet du Dindon 10/06/10						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					497					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					08-04-2010					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/472/2/">
+						Billet du Dindon 08/04/2010						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					495					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					15-03-2010					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/468/2/">
+						Billet du Dindon 15/03/2010						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					503					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					01-02-2010					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/450/2/">
+						Brève du 01/02						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					531					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					20-01-2010					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/437/2/">
+						Brève du 20/01						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					522					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					25-12-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/434/2/">
+						Heureuse Année 2010 !!!						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					3328					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					09-12-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/428/2/">
+						Brève du dindon du 09/12						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					500					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					29-11-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/424/2/">
+						Billet du Dindon du 29/11/2009						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					561					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					16-11-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/421/2/">
+						Brève du Dindon du 16/11						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					520					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					18-10-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/400/2/">
+						Breve du 18/10						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					557					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					12-10-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/398/2/">
+						brève du 12/10						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					571					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					06-10-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/395/2/">
+						Brève du 06/10						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					550					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					20-09-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/385/2/">
+						Brève du 20/09						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					528					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					01-09-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/382/2/">
+						Brève du Dindon du 01/09/2009						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					558					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					05-08-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/378/2/">
+						Brève du 05/08/2009						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					558					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					24-06-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/369/2/">
+						Brève du Dindon du 24/06/2009						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					556					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					14-06-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/366/2/">
+						Brève du Dindon du 14/06/2009						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					920					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					26-05-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/361/2/">
+						Brève du Dindon du 26/05/2009						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					582					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					14-05-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/358/2/">
+						Brève du Dindon du 14/05/2009						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					593					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					27-04-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/347/2/">
+						Billet du Dindon du 27/04/2009						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					524					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					06-04-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/340/2/">
+						Brève du Dindon du 06/04						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					1383					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					25-03-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/324/2/">
+						Brève du Dindon du 25/03						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					1711					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					16-03-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/293/2/">
+						Brève du Dindon du 16/03						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					1433					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					05-03-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/278/2/">
+						Brève du Dindon du 05/03						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					1396					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					20-02-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/268/2/">
+						Breve du Dindon du 20/02/2009						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					1693					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					28-01-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/249/2/">
+						Billet du Dindon du 28/01/2009						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					848					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					15-01-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/245/2/">
+						Brève du Dindon du 15/01/2009						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					1443					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					07-01-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/237/2/">
+						Brève du Dindon du 07/01/09						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					1361					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					04-12-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/228/2/">
+						Brève du 04/12/2008						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					1021					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					04-12-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/227/2/">
+						Brève du 04/12/2008						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					552					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					13-11-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/211/2/">
+						Billet du Dindon du 13/11/2008						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					968					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					09-09-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/180/2/">
+						Brève du Dindon du 09/09/2008						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					581					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					23-06-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/145/2/">
+						Brève du Dindon du 23/06						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					659					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					03-06-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/142/2/">
+						Brève du Dindon du 03/06						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					934					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					27-05-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/139/2/">
+						Brève du Dindon du 27/05/2008						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					1452					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					19-05-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/135/2/">
+						Brève du Dindon du 13/05/2008						</a>
+												</td>
+											<td align="left">
+					Jean-Baptiste Compère					</td>
+										<td align="center">
+					597					</td>
+						</tr>
+					<tr>
+				<td colspan="4">&nbsp;</td>
+			</tr>
+			<tr>
+				<td align="center" colspan="4" class="sectiontablefooter">
+				<span class="pagenav">&lt;&lt;&nbsp;Début</span> <span class="pagenav">&lt;&nbsp;Précédente</span> <span class="pagenav">1</span> <a href="http://www.lc78-escrime.com/content/category/1/31/2/50/50/" class="pagenav"><strong>2</strong></a> <a href="http://www.lc78-escrime.com/content/category/1/31/2/50/50/ " class="pagenav" title="Suivante">Suivante&nbsp;&gt;</a> <a href="http://www.lc78-escrime.com/content/category/1/31/2/50/50/ " class="pagenav" title="Fin">Fin&nbsp;&gt;&gt;</a>				</td>
+			</tr>
+			<tr>
+				<td colspan="4" align="right">
+				Résultats 1 - 50 sur 58				</td>
+			</tr>
+					</table>
+		<input type="hidden" name="id" value="31" />
+		<input type="hidden" name="sectionid" value="1" />
+		<input type="hidden" name="task" value="category" />
+		<input type="hidden" name="option" value="com_content" />
+		</form>
+					</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+					<ul>
+						<li>
+											<a href="http://www.lc78-escrime.com/content/category/1/30/2/" class="category">
+							Brève du Dindon</a>
+													&nbsp;<i>( 1 items )</i>
+											</li>
+								<li>
+											<a href="http://www.lc78-escrime.com/content/category/1/1/2/" class="category">
+							Dernières news</a>
+													&nbsp;<i>( 39 items )</i>
+											</li>
+						</ul>
+					</td>
+		</tr>
+		</table>
+					<div class="back_button">
+				<a href='javascript:history.go(-1)'>
+					[&nbsp;Retour&nbsp;]</a>
+			</div>
+			";s:6:"result";N;}

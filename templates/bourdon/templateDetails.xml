@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="template" version="1.0.1">
+	<name>BOURDON</name>
+	<creationDate>04/20/07</creationDate>
+	<author>Clement BOURDON</author>
+	<copyright>GNU/GPL</copyright>
+    <authorEmail>clement.bourdon@wanadoo.fr</authorEmail>
+    <authorUrl>http://www.leplessisgrammoire.com</authorUrl>
+	<version>1.0.1</version>
+	<description>This Template uses USER1 to USER7 objects. It was designed at the origin for the town hall of the city of Plessis-grammoire in France.</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>template_thumbnail.png</filename>
+	</files>
+	<images>
+		<filename>images/advertisement.png</filename>
+		<filename>images/arrow.png</filename>
+		<filename>images/button_bg.png</filename>
+		<filename>images/contenthead.png</filename>
+		<filename>images/degradeHbleu.png</filename>
+		<filename>images/degradeHOran.png</filename>
+		<filename>images/degradeHvert.png</filename>
+		<filename>images/emailButton.png</filename>
+		<filename>images/header_short.jpg</filename>
+		<filename>images/indent1.png</filename>
+		<filename>images/indent2.png</filename>
+		<filename>images/indent3.png</filename>
+		<filename>images/indent4.png</filename>
+		<filename>images/menu_bg.png</filename>
+		<filename>images/powered_by.png</filename>
+		<filename>images/printButton.png</filename>
+		<filename>images/puce.png</filename>
+		<filename>images/rating_star.png</filename>
+		<filename>images/rating_star_blank.png</filename>
+		<filename>images/spacer.png</filename>
+		<filename>images/subhead_bg.png</filename>
+		</images>
+	<css>
+		<filename>css/template_css.css</filename>
+	</css>
+</mosinstall>

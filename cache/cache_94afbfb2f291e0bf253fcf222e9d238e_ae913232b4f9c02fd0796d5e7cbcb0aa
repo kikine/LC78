@@ -1,0 +1,8 @@
+                      -969777185a:2:{s:6:"output";s:523:"
+<form action="index.php?option=com_search" method="get">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="search" class="inputbox" type="text" size="20" value="Rechercher..."  onblur="if(this.value=='') this.value='Rechercher...';" onfocus="if(this.value=='Rechercher...') this.value='';" /><br/><input type="submit" value="Rechercher" class="button"/>	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+</form>";s:6:"result";N;}

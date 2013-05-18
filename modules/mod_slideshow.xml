@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+  <mosinstall type="module" version="4.5.1">
+    <name>Flash SlideShow</name>
+    <creationDate>28/09/2005</creationDate>
+    <author>bpixel</author>
+    <copyright>This module is released under the GNU/GPL License</copyright>	  
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>	  
+	<authorEmail>benjamin@bpixel.com</authorEmail>
+	<authorUrl>http://www.bpixel.com</authorUrl>
+	<version>0.2.3</version>
+	<description><h1>::: flash slideshow :::</h1><p> créez facilement des slideshows avec vos JPG ou SWF</p><p> (ATTENTION : seuls ces deux formats de fichiers sont acceptés)</p></description>
+    <files>
+      <filename module="mod_slideshow">mod_slideshow.php</filename>
+      <filename>mod_slideshow/mod_slideshow.swf</filename>	
+      <filename>mod_slideshow/flash.php</filename>
+      <filename>mod_slideshow/ImageGallery.php</filename>
+      <filename>mod_slideshow/flash.css</filename>
+      <filename>mod_slideshow/tpl/howto.rtf</filename>
+      <filename>mod_slideshow/tpl/tpl_default.swf</filename>
+      <filename>mod_slideshow/tpl/tpl_default.fla</filename>
+      <filename>mod_slideshow/tpl/tpl_default.swf.jpg</filename>
+      <filename>mod_slideshow/tpl/tpl_ot_noel.swf</filename>
+      <filename>mod_slideshow/tpl/tpl_ot_noel.fla</filename>
+      <filename>mod_slideshow/tpl/tpl_ot_noel.swf.jpg</filename>
+      <filename>mod_slideshow/tpl/tpl_round_corner.swf</filename>
+      <filename>mod_slideshow/tpl/tpl_round_corner.fla</filename>
+      <filename>mod_slideshow/tpl/tpl_round_corner.swf.jpg</filename>
+      <filename>mod_slideshow/tpl/tpl_simple.swf</filename>
+      <filename>mod_slideshow/tpl/tpl_simple.fla</filename>
+      <filename>mod_slideshow/tpl/tpl_simple.swf.jpg</filename>
+      <filename>mod_slideshow/tpl/tpl_square.swf</filename>
+      <filename>mod_slideshow/tpl/tpl_square.fla</filename>
+      <filename>mod_slideshow/tpl/tpl_square.swf.jpg</filename>
+    </files>
+	<params>
+		<param name="moduleclass_sfx" type="text" default="" label="Module Class Suffix" description="A suffix to be applied to the css class of the module (table.moduletable), this allows individual module styling" />
+		<param name="id" type="text" default="" label="SlideShow ID" description="If you have installed the slideshow Component, you can use a slide ID to get all parameters from your database. In this case, all paramters below are not used." />
+		<param name="imagepath" type="text" default="images/stories/" label="Images Folder" description="Dossier où sont placées les images utilisées par le module ... l'adresse doit se terminée par un slash (/)" />
+		<param name="image" type="text" default="" label="First Image (filename)" description="nom de la première image utilisée (permet de forcer l'image de départ) ... ecrire simplement son nom, avec l'extension (exmple.jpg)" />
+		<param name="stretchMethode" type="list" default="inner" label="stretch Methode" description="méthode d'affichage des images. Inner : les images sont visibles entièrement, Outer : les images débordent trop grandes du slideshow, exactfit : les images sont déformées pour s'adapter aux dimensions du slideshow" >
+		        <option value="inner">inner</option>
+		        <option value="outer">outer</option>
+		        <option value="exactFit">Exact Fit</option>		
+		</param>
+		<param name="random" type="radio" default="0" label="Random order" description="ordre alléatoire des images" >
+			<option value="0">Non</option>
+			<option value="1">Oui</option>			
+		</param>		
+		<param name="@spacer" type="spacer" default="" label="" description="" />
+		<param name="width" type="text" default="200" label="Width" description="Largeur du slideshow" />
+		<param name="height" type="text" default="200" label="Height" description="Hauteur du slideshow" />
+		<param name="background" type="text" default="0x000000" label="Background color" description="Couleur de fond des images. ATTENTION : la syntaxe doit être 0xFFFFFF et non #FFFFFF !!!" />
+		<param name="template" type="list" default="tpl_default.swf" label="Template" description="Fichier SWF utilisé comme skin ... voir dans le fichier modules/mod_slideshow/howto.rtf pour plus d'infos " >
+			<option value="tpl_default.swf">Default</option>
+			<option value="tpl_round_corner.swf">Round Corner</option>
+			<option value="tpl_simple.swf">Simple</option>
+			<option value="tpl_square.swf">Colored Square</option>
+			<option value="tpl_ot_noel.swf">Tourisme Noel</option>
+		</param>
+		<param name="showcontrols" type="radio" default="1" label="Show controls" description="Affiche la boite de control du slideshow" >
+			<option value="0">Non</option>
+			<option value="1">Oui</option>			
+		</param>			
+
+		<param name="@spacer" type="spacer" default="" label="" description="" />
+
+		<param name="autoplay" type="radio" default="0" label="AutoPlay" description="Lecture automatique dès le chargement" >
+			<option value="0">Off</option>
+			<option value="1">On</option>			
+		</param>	
+		<param name="@spacer" type="spacer" default="Transitions : " label="" description="" />
+		<param name="Blinds" type="radio" default="0" label="Blinds" description="">
+			<option value="0">Non</option>
+			<option value="Blinds">Oui</option>			
+		</param>
+		<param name="Fade" type="radio" default="Fade" label="Fade" description="">
+			<option value="0">Non</option>
+			<option value="Fade">Oui</option>			
+		</param>	
+		<param name="Fly" type="radio" default="0" label="Fly" description="">
+			<option value="0">Non</option>
+			<option value="Fly">Oui</option>			
+		</param>	
+		<param name="Iris" type="radio" default="0" label="Iris" description="">
+			<option value="0">Non</option>
+			<option value="Iris">Oui</option>			
+		</param>	
+		<param name="Photo" type="radio" default="0" label="Photo" description="">
+			<option value="0">Non</option>
+			<option value="Photo">Oui</option>			
+		</param>	
+		<param name="PixelDissolve" type="radio" default="0" label="PixelDissolve" description="">
+			<option value="0">Non</option>
+			<option value="PixelDissolve">Oui</option>			
+		</param>	
+		<param name="Rotate" type="radio" default="0" label="Rotate" description="">
+			<option value="0">Non</option>
+			<option value="Rotate">Oui</option>			
+		</param>	
+		<param name="Squeeze" type="radio" default="0" label="Squeeze" description="">
+			<option value="0">Non</option>
+			<option value="Squeeze">Oui</option>			
+		</param>	
+		<param name="Wipe" type="radio" default="0" label="Wipe" description="">
+			<option value="0">Non</option>
+			<option value="Wipe">Oui</option>			
+		</param>											
+		<param name="Zoom" type="radio" default="0" label="Zoom" description="">
+			<option value="0">Non</option>
+			<option value="Zoom">Oui</option>			
+		</param>										
+		<param name="transduration" type="text" default="1" size="6" label="Transition Duration (second)" description="Durée de la transition" />
+		<param name="delay" type="text" default="5" size="6" label="Diplay Image Duration (second)" description="Durée d'affichage des images en mode lecture" />
+		<param name="@spacer" type="spacer" default="" label="" description="" />
+		<param name="defaultText" type="textarea" default="" cols="30" rows="4"	 label="Default Text" description="You can write text for each image, by writting txt file, with same filename, in the same folder. But you can also write here a default text that will be used if no file was found" />
+	</params>    
+  </mosinstall>
+  

@@ -1,0 +1,393 @@
+body {
+	position:absolute;
+	left:50%;
+	top:50%;
+	height:600px;
+	width:800px;
+	margin-left:-400px;
+	margin-top:-300px;
+	/*width:780px;*/
+}
+
+h2 {
+	font: bold italic 2em Georgia, Times, "Times New Roman", serif;
+	margin:0;
+	padding: 0.5em 0 0.5em 0;
+	font-size: 1em;
+	text-align:center;
+}
+
+/**************************************************/
+/*					          */
+/*		BARRE DE NAVIGATION DU HAUT	  */
+/*						  */
+/**************************************************/
+#content{
+	border: 1px solid #778;
+	border: 3px solid #000000;
+	border-top:10px solid #000000;
+	width:800px;
+	float:left;
+	background-color:#33CC66;
+}
+
+#content_admin{
+	border: 1px solid #778;
+	border-top:10px solid #000000;
+	width:800px;
+	float:left;
+	background-color:#DCDCDC;
+	background-color:#33CC66;
+}
+
+#topnav ul{
+text-align :center;
+	padding: 3px 0;
+	margin-left: 0;
+	border-bottom: 1px solid #778;
+	font: bold 12px Verdana, sans-serif;
+}
+
+#topnav ul li{
+	list-style: none;
+	margin: 0;
+	display: inline;
+}
+
+#topnav ul li a {
+	padding: 3px 0.5em;
+	margin-left: 3px;
+	border: 1px solid #778;
+	border-bottom: none;
+	background: #DDE;
+	text-decoration: none;
+}
+
+#topnav ul li a:link {
+	color: #448;
+}
+
+#topnav ul li a:visited {
+	color: #667;
+}
+
+#topnav ul li a:link:hover, #topnav ul li a:visited:hover {
+	color: #000;
+	background: #AAE;
+	border-color: #227;
+	padding-top:5px;
+}
+
+#topnav ul li a#current {
+	background: white;
+	border-bottom: 1px solid white;
+}
+
+/**************************************************/
+/*						  */
+/*			FORMULAIRES               */
+/*						  */
+/**************************************************/
+legend {
+	font-weight:bold;
+}
+
+select, input{
+	color:#cc0000;
+	background-color:#ffcc00;
+}
+
+form {
+	margin: 1em 20%;
+}
+table form {
+	margin: 0px;
+}
+form .input-txt {
+	background-image: url(images/input_shadow.gif);
+	border: 1px solid #cccccc;
+	border-color: #999999 #cccccc #cccccc #999999;
+	padding: 2px 1em;
+	width: 40%;
+}
+
+form div {
+	/*background-color: #fbf7f1;
+			border: 1px solid white;
+			border-color: #ffffff #e6ded1 #d5cdbf #ffffff;*/
+			padding: 2px 10px;
+			color: #663300;
+}
+form div:after {
+	content: "."; 
+	display: block; 
+	height: 0; 
+	clear: both; 
+	visibility: hidden;
+}
+	/* Hides from IE-mac \*/
+	* html form div {height: 1%;}
+	/* End hide from IE-mac */
+
+
+form label {
+	display: block;
+	float: left;
+	width: 45%;
+	text-align: right;
+	padding: 3px 1em;
+	padding-left: 0px;
+}
+form .form-control {	
+	text-align: center;
+}
+
+.form-submit,
+.form-reset {
+	background-color: #f1f1f1;
+	border: 1px solid black;
+	font-weight: bold;
+	color:#000;
+}
+
+.form-control .form-submit:hover{
+	background-color: #0F0;
+	border: 1px solid black;
+	font-weight: bold;
+}
+
+.form-control .form-reset:hover{
+	background-color: #F00;
+	border: 1px solid black;
+	font-weight: bold;
+}
+
+/**************************************************/
+/*						  */
+/*				A PROPOS	  */
+/*						  */
+/**************************************************/
+
+#propos p{
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-align: center;
+}
+
+#propos fieldset{
+	text-align: justify;
+}
+
+#closer form div {
+	background-color: #fff;
+			border: 1px solid white;
+			padding: 2px 10px;
+			color: #663300;
+}
+
+/**************************************************/
+/*						  */
+/*				SEARCH		  */
+/*						  */
+/**************************************************/
+#search p{
+	text-align:center;
+}
+
+#search a{
+	text-decoration:none;
+	margin:0px;
+	padding:0px;
+}
+
+#search a:hover{
+	font-size:large;
+	font-weight:bold;
+	border: 1px solid #336699;
+	padding-left:3px;
+	padding-right:3px;
+}
+
+/**************************************************/
+/*						  */
+/*				MSG RETOUR	  */
+/*						  */
+/**************************************************/
+#content msg {
+	color:#12B1E8;
+	text-align:right;
+	/*r18
+	g177
+	b232*/
+}
+
+
+/**************************************************/
+/*						  */
+/*				Fiche Tireur	  */
+/*						  */
+/**************************************************/
+
+.cadre1 img{
+	border: solid 4px black;
+}
+.cadre1{
+	float:inherit;
+	margin: 10px 10px 10px 10px;
+	width: 110px;
+	/*margin-top:50px;*/
+	margin-top:8em;
+	height:18em;
+}
+
+.cadre span{
+	font-weight:bold;
+	color:#000;
+}
+.cadre p{
+	color:#F00;
+}
+
+.cadre a {
+	top:0px;
+	padding:0px;
+	margin:0px;
+}
+.cadre a:hover{
+	text-decoration:underline overline;
+}
+
+.cadre {
+	/*float: left; */
+	float:inherit;
+	margin: 10px 10px 10px 10px;
+	width: 300px;
+	border : solid 1px black;
+}
+
+.cadre p {
+	padding-right: 5px; 
+	padding-left: 2px;
+	padding-bottom: 0px;
+	margin: 0px; 
+	border-left: #eaeaea 8px solid;
+	line-height: 150%; 
+	padding-top: 5px; 
+	position: relative; 
+	text-align: justify;
+	font: 12px verdana, sans-serif;	
+}
+
+.cadre form {
+	text-align:right;
+	padding:2px 0px;
+	margin:1em 0;
+}
+info {
+ text-align:right;
+}
+intit {
+	font: bold 12px verdana, sans-serif;
+}
+/**************************************************/
+/*		                                  */
+/*				FOOTER		  */
+/*						  */
+/**************************************************/
+
+#footer{
+	width:780px;
+	border-top:2px dashed #000000;
+	margin-top:10px;
+	clear:both;
+}
+
+#footer p,a{
+	top: -2px;
+	font: 12px Verdana, sans-serif;
+	color: #336699;
+	text-align:auto;
+	text-decoration:none;
+	display: inline;
+	padding-left:60px;
+}
+
+#footer a:hover{
+	top: -2px;
+	font: bold 12px Verdana, sans-serif;
+	color: #336699;
+	text-align:center;
+	text-decoration:underline overline;
+}
+
+/*#footer .form-control .form-reset:hover{
+	background-color: #F00;
+	border: 1px solid black;
+	font-weight: bold;
+}*/
+
+
+/**************************************************/
+/*						  */
+/*				MSG de RETOUR	  */
+/*						  */
+/**************************************************/
+
+#return {
+	text-align: center;
+	font : bold italic 1em Comic sans MS, sans-serif;
+	color: #FF0000;
+	margin:10px 0px;
+}
+
+.tableau{
+	margin: 1em 20%;
+	/*margin-top:10px;
+	margin-left:28%;*/
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+.tableau tr,
+.tableau td {
+	border: 1px solid black;
+	text-align: center;
+	
+}
+
+.titre_tab {
+	font-weight:bold;
+	font-size:8pt;
+}
+
+.content_tab_masc {
+	margin-top:10px;
+	margin-left:28%;
+	border: 1px solid black;
+	border-collapse: collapse;
+	font-size: 0.75em;
+	background-color:#007AFF;
+	border: 1px solid black;
+	text-align: center;	
+}
+
+.content_tab_fem {
+	margin-top:10px;
+	margin-left:28%;
+	border: 1px solid black;
+	border-collapse: collapse;
+	font-size: 0.75em;
+	background-color:pink;
+	border: 1px solid black;
+	text-align: center;	
+}
+
+.content_tab_masc:hover, .content_tab_fem:hover{
+	background-color:yellow;
+	font-weight:bolder;
+}
+
+.content_tab_masc td a,.content_tab_fem td a {
+	color:black;
+	margin:0 10px;
+	padding:0;
+}

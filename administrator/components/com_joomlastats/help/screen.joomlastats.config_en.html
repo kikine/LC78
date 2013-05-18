@@ -1,0 +1,225 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      lang="en_US"
+      xml:lang="en_US">
+<head>
+    <title>JoomlaStats - Site Statistics</title>
+
+    <link href="help.css"
+          rel="stylesheet"
+          type="text/css"
+          media="all" />
+    <meta name="copyright"
+          content="(C) 2007 www.JoomlaStats.com  All rights reserved." />
+
+    <meta name="license"
+          content="http://www.JoomlaStats.com  GNU/GPL" />
+    <meta http-equiv="Content-Type"
+          content="text/html; charset=UTF-8" />
+</head>
+
+<body>
+	<a href="helptop" id="helptop"></a>
+    <h1>JoomlaStats - Overview</h1>
+
+	<div class="close">
+    	<a href="#" onClick="window.close()" title="Close Window">Close Window</a>
+    	<br />
+    	<a href="http://developer.joomla.org/sf/frs/do/viewSummary/projects.joomlastats/frs" target="_blank" title="JoomlaStats">Latest Version</a>
+    </div>
+    <div class="clear"></div>
+    
+    <div class="normal">
+		JoomlaStats is an add.on for the CMS Joomla! and shows you nearly everthing about your visitors<br /><br />
+    	* Website of Joomlastats <a href="http://www.joomlastats.org" title="JoomlaStats" target="_blank">here</a><br />
+    	 * The latest Version is downloadable <a href="http://developer.joomla.org/sf/frs/do/viewSummary/projects.joomlastats/frs" target="_blank" title="JoomlaStats">here</a><br />
+    	* Support is under <a href="http://www.joomlastats.org" title="JoomlaStats" target="_blank">JoomlaStats.org</a> in the forum
+    </div>
+    <div class="clear"></div>
+    <div class="warning"><span class="warningHeader">Hint:</span>
+    To include JoomlaStats into your website installation, it is necessary to install also the module <strong>JooStats</strong>. Afterwards do not forget to publish this module!<br />
+    If you want to have all your websites inside this statistic publish the module in the first module on the first position with the setting valid for <strong>all sites</strong>
+    </div>
+    
+    <div class="clear"></div>
+    <div>JoomlaStats consists of following menu items:
+		<ul>
+		    <li>
+		    	Statistics
+		    	<br />
+		    	<span class="normal">Here all the statistics are shown</span>
+		    </li>
+		    <li>
+		    	Configuration
+		    	<br />
+		    	<span class="normal">Adjust and configure JoomlaStats</span>
+		    </li>
+		    <li>
+		    	Exclude
+		    	<br />
+		    	<span class="normal">Remove or add logging of visitors</span>
+		    </li>
+		    <li>
+		    	TDL-Check
+		    	<br />
+		    	<span class="normal">If the country of the visitor can be found easily (not yet enhanced to whois queries) then the country is added to the visitor data</span>
+		    </li>
+		    <li>
+		    	Info
+		    	<br />
+		    	<span class="normal">Information about JoomlaStats and the database</span>
+		    </li>
+		    <li>
+		    	Help
+		    	<br />
+		    	<span class="normal">Calls the integrated help (this document)</span>
+		    </li>
+		</ul>
+    </div>
+
+    <div class="header">Menutabs</div>
+
+    <div>Settings are defined with the menu <strong>Configuration</strong>
+    	<ul>
+		    <li><a href="#General" title="Generell">General</a></li>
+		    <li><a href="#Text" title="Tools">Tools</a></li>
+		    <li><a href="#Export" title="Export">Export</a></li>
+		</ul>
+    </div>
+
+    <div>
+    	<ul>
+    		<li><a href="General" id="General"></a>General
+    			<ul>
+    				<li>
+    					Onlinetime
+    					<br />
+    					<span class="normal">For what period (selectable from 15 minutes to 24 hours) will a visitor be seen as one (1) visitor</span>
+    				</li>
+    				<li>
+    					Startoption
+    					<br />
+    					<span class="normal">Specify what table should be shown as default page.
+    					</span>
+    				</li>
+    				<li>
+    					language
+    					<br />
+    					<span class="normal">Normaly JoomlaStats can detect automaticaly by Admin- or user language and change it's language (Auto).<br />
+    					Choose a specific language to lock the language.
+    					</span>
+                    </li>
+                    <li>
+    					time limit
+    					<br />
+    					<span class="normal">Time limit for internal JoomlaStats processes (for example purging) - also dependant from existing server configuration.<br />
+    					If the serverconfiguration allows, you can adjust the timelimit here.
+    					</span>
+                    </li>
+                    <li>
+    					Display purged data
+    					<br />
+    					<span class="normal">Displays purged data seperately
+    					</span>
+                    </li>
+                    <li>
+    					WHOIS Support
+    					<br />
+    					<span class="normal">If it's not possible to detect the country from the visitor's domain and this option is selected, 
+    					then JoomlaStats will automaticaly checks the visitors IP to a country database.
+    					This way the country will be known from where the visitor is browsing.
+    					</span>
+                    </li>
+                    <li>
+    					I18n Support
+    					<br />
+    					<span class="normal">If you use Joomla with a translation tool like Joomla!Fish and this option is selected,
+    					JoomlaStats will log all translated pages as 1 page.
+    					</span>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div class="close">
+        <a href="#helptop" title="Top">Top</a>
+    </div>
+
+    <div>
+    	<ul>
+			<li><a href="Tools" id="Tools"></a>Tools
+				<ul>
+					<li>Purge Database
+					    <br />
+                        <span class="normal">
+                        With this action you can decrease the size of the database. This is done by summerising the pages visited. The totals will remain, however the precise desciption of what pages are visited are not requestable!<br />
+                        This should be executed, when the size of the database is getting to big (database size is displayed at the statistic page 1st line on the left).
+                        </span>
+                        <div class="warning"><span class="warningHeader">Hinweis:</span>
+                        This action is only shown if there are some data available!
+                        </div>
+                    </li>
+					<li>Delete Database
+					    <br />
+                        <span class="normal">
+                        Delete all data, without making any precautions to restore them!
+						</span>
+					</li>
+					<li>Part backup
+						<br />
+						<span class="normal">
+						Backup visitors statistics. After the backup is done, the visitors statistics will be cleared.
+						</span>
+					</li>
+					<li>Complete Backup
+						<br />
+						<span class="normal">
+						All JoomlaStats tables are backuped and stored with a date and time mark.<br />
+						The only way to access this data is using a SQL manager (for example phpMyAdmin)!
+					    </span>
+                    </li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+	
+	<div class="close">
+        <a href="#helptop" title="Top">Top</a>
+    </div>
+	
+	<div>
+    	<ul>
+			<li><a href="Export" id="Export"></a>Export
+				<ul>
+					<li>CSV export
+					    <br />
+                        <span class="normal">
+                        With this action one of the seletced tables can be exported as CSV (Comma Seperated Value)
+                        file and stored locally.
+                        <br />
+                        Afterwards the file can be opened/edited by e.g. MS-Excel or OpenOffice
+                        </span>
+                    </li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+
+    <div class="close">
+        <a href="#helptop" title="Top">Top</a>
+    </div>
+    <div class="clear"></div>
+
+	<div class="docinfo">Doc.Info: v.1.0 - 2006.12.29</div>
+    <div class="close">
+    	<a href="#" onClick="window.close()" title="Close Window">Close Window</a>
+    	&nbsp;|&nbsp;
+    	<a href="#helptop" title="Top">Top</a>
+    	&nbsp;|&nbsp;
+    	<a href="http://developer.joomla.org/sf/frs/do/viewSummary/projects.joomlastats/frs" target="_blank" title="JoomlaStats">Latest version here</a>
+    </div>
+</body>
+</html>

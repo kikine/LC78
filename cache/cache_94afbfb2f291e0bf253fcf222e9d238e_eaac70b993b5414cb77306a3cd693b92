@@ -1,0 +1,284 @@
+                        13129886a:2:{s:6:"output";s:9561:"			<div class="componentheading">
+			Archives 2007-2008			</div>
+					<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" class="contentpane">
+					<tr>
+				<td width="60%" valign="top" class="contentdescription" colspan="2">
+								</td>
+			</tr>
+					<tr>
+			<td width="100%">
+					<form action="http://www.lc78-escrime.com/content/category/5/32/2/" method="post" name="adminForm">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+				<td colspan="4">
+					<table>
+					<tr>
+													<td align="right" width="100%" nowrap="nowrap">
+								Filtre&nbsp;								<input type="text" name="filter" value="" class="inputbox" onchange="document.adminForm.submit();" />
+							</td>
+														<td align="right" width="100%" nowrap="nowrap">
+								&nbsp;&nbsp;&nbsp;Trier&nbsp;
+<select name="order" class="inputbox" size="1"  onchange="document.adminForm.submit();">
+	<option value="date">Date asc</option>
+	<option value="rdate" selected="selected">Date desc</option>
+	<option value="alpha">Titre asc</option>
+	<option value="ralpha">Titre desc</option>
+	<option value="hits">Clics asc</option>
+	<option value="rhits">Clics desc</option>
+	<option value="author">Auteur asc</option>
+	<option value="rauthor">Auteur desc</option>
+	<option value="order">Ordre</option>
+</select>
+							</td>
+														<td align="right" width="100%" nowrap="nowrap">
+								&nbsp;&nbsp;&nbsp;Affiche #&nbsp;
+<select name="limit" class="inputbox" size="1" onchange="document.location.href='http://www.lc78-escrime.com/content/category/5/32/2/' + this.options[selectedIndex].value + '/10/';">
+	<option value="5">5</option>
+	<option value="10">10</option>
+	<option value="15" selected="selected">15</option>
+	<option value="20">20</option>
+	<option value="25">25</option>
+	<option value="30">30</option>
+	<option value="50">50</option>
+</select>
+							</td>
+												</tr>
+					</table>
+				</td>
+			</tr>
+						<tr>
+									<td class="sectiontableheader" width="35%">
+						Date					</td>
+										<td class="sectiontableheader">
+						Titre de la publication					</td>
+										<td class="sectiontableheader" align="left" width="25%">
+						Auteur					</td>
+										<td align="center" class="sectiontableheader" width="5%">
+						Clics					</td>
+								</tr>
+						<tr class="sectiontableentry1" >
+									<td>
+					18-05-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/131/2/">
+						EDJ Champ. de France N2 17/05/2008 Pont à Mousson						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					470					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					18-05-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/130/2/">
+						EHJ Champ. de France N2 17 mai 2008 Pont à Mousson						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					440					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					18-05-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/129/2/">
+						EHJ champ.de France N1 17/05/2008 Pont à Mousson						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					634					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					09-05-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/128/2/">
+						Feuille de match LC78 - LSC						</a>
+												</td>
+											<td align="left">
+					Thomas Raso					</td>
+										<td align="center">
+					1366					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					06-05-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/126/2/">
+						EDS Circuit national Talence 04 mai 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					633					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					14-04-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/123/2/">
+						EDM CHAMPIONNAT LIGUE 13 avril 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					470					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					14-04-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/122/2/">
+						EHM CHAMPIONNAT LIGUE 13 avril 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					415					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					13-04-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/120/2/">
+						EDS TIPIF 2008 13 AVRIL 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					453					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					07-04-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/117/2/">
+						EFV1 Circuit national 1 LYON 06 avril 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					458					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					06-04-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/116/2/">
+						EDM Inter-zones Nantes 06 avril 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					499					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					06-04-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/115/2/">
+						EHM Inter-zones Nantes  06 avril 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					724					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					30-03-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/112/2/">
+						EDC Nationale 1   Douai 30 mars 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					809					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					23-03-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/108/2/">
+						EHJ National 1 Colmar 23mars 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					843					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					23-03-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/107/2/">
+						EDJ National 1 Colmar 23 mars 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					720					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					16-03-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/103/2/">
+						EHC Circuit national 2 le 16 mars 2008 Saint Gratien						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					428					</td>
+						</tr>
+					<tr>
+				<td colspan="4">&nbsp;</td>
+			</tr>
+			<tr>
+				<td align="center" colspan="4" class="sectiontablefooter">
+				<span class="pagenav">&lt;&lt;&nbsp;Début</span> <span class="pagenav">&lt;&nbsp;Précédente</span> <span class="pagenav">1</span> <a href="http://www.lc78-escrime.com/content/category/5/32/2/15/15/" class="pagenav"><strong>2</strong></a> <a href="http://www.lc78-escrime.com/content/category/5/32/2/15/30/" class="pagenav"><strong>3</strong></a> <a href="http://www.lc78-escrime.com/content/category/5/32/2/15/45/" class="pagenav"><strong>4</strong></a> <a href="http://www.lc78-escrime.com/content/category/5/32/2/15/15/ " class="pagenav" title="Suivante">Suivante&nbsp;&gt;</a> <a href="http://www.lc78-escrime.com/content/category/5/32/2/15/45/ " class="pagenav" title="Fin">Fin&nbsp;&gt;&gt;</a>				</td>
+			</tr>
+			<tr>
+				<td colspan="4" align="right">
+				Résultats 11 - 25 sur 57				</td>
+			</tr>
+					</table>
+		<input type="hidden" name="id" value="32" />
+		<input type="hidden" name="sectionid" value="5" />
+		<input type="hidden" name="task" value="category" />
+		<input type="hidden" name="option" value="com_content" />
+		</form>
+					</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+					<ul>
+						<li>
+											<a href="http://www.lc78-escrime.com/content/category/5/29/2/" class="category">
+							International</a>
+													&nbsp;<i>( 7 items )</i>
+											</li>
+								<li>
+											<a href="http://www.lc78-escrime.com/content/category/5/28/2/" class="category">
+							Régional</a>
+													&nbsp;<i>( 62 items )</i>
+											</li>
+								<li>
+											<a href="http://www.lc78-escrime.com/content/category/5/26/2/" class="category">
+							National</a>
+													&nbsp;<i>( 28 items )</i>
+											</li>
+						</ul>
+					</td>
+		</tr>
+		</table>
+					<div class="back_button">
+				<a href='javascript:history.go(-1)'>
+					[&nbsp;Retour&nbsp;]</a>
+			</div>
+			";s:6:"result";N;}

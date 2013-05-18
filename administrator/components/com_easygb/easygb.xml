@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="component" version="1.0.0">
+	<name>EasyGB</name>
+	<author>Adam van Dongen</author>
+	<creationDate>July 2006</creationDate>
+	<copyright>(C) 2006 Joomla-addons.org. All rights reserved.</copyright>
+	<authorEmail>adam@joomla-addons.org</authorEmail>
+	<authorUrl>www.joomla-addons.org</authorUrl>
+	<version>1.0 beta 1</version>
+	<description>Easy Guestbook for Joomla!french version by 65c816 "www.superfamicom.123.fr"</description>
+	<files>
+	  <filename>icons/16x16_clock.png</filename>
+	  <filename>icons/16x16_display.png</filename>
+	  <filename>icons/16x16_gohome.png</filename>
+	  <filename>icons/16x16_kmail.png</filename>
+	  <filename>icons/16x16_mozilla.png</filename>
+	  <filename>icons/16x16_network_local.png</filename>
+	  <filename>easygb.php</filename>
+	  <filename>easygb.html.php</filename>
+	</files>
+  <install>
+    <queries>
+      <query>
+        CREATE TABLE IF NOT EXISTS `#__easygb` (
+          `id` int(11) NOT NULL auto_increment,
+          `date` datetime NOT NULL default '0000-00-00 00:00:00',
+          `content` text NOT NULL,
+          `name` varchar(255) NOT NULL default '',
+          `email` varchar(255) NOT NULL default '',
+          `homepage` varchar(255) NOT NULL default '',
+          `rating` tinyint(1) NOT NULL default '0',
+          `ip` varchar(15) NOT NULL default '',
+          `browser` varchar(255) NOT NULL default '',
+          `published` tinyint(1) NOT NULL default '0',
+          PRIMARY KEY  (`id`)
+        )
+      </query>
+      <query>
+        CREATE TABLE IF NOT EXISTS `#__easygb_captcha` (
+          `id` int(11) NOT NULL auto_increment,
+          `code` varchar(255) NOT NULL default '',
+          `generated` datetime NOT NULL default '0000-00-00 00:00:00',
+          PRIMARY KEY  (`id`)
+        )
+      </query>
+    </queries>
+  </install>
+  <installfile>install.easygb.php</installfile>
+  <uninstallfile>uninstall.easygb.php</uninstallfile>
+  <administration>
+    <menu>Easy Guestbook</menu>
+	  <submenu>
+	    <menu act="configuration">Configuration</menu>
+	    <menu act="entries">Manage Entries</menu>
+	  </submenu>
+    <files>
+	  	<filename>icons/16x16_klipper.png</filename>
+	  	<filename>admin.easygb.html.php</filename>
+	  	<filename>admin.easygb.php</filename>
+	  	<filename>configuration.php</filename>
+	  	<filename>easygb.class.php</filename>
+	  	<filename>easygb.gif</filename>
+	  	<filename>toolbar.easygb.html.php</filename>
+	  	<filename>toolbar.easygb.php</filename>
+    </files>
+  </administration>
+	<params>
+	</params>
+</mosinstall>

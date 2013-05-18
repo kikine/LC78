@@ -1,0 +1,248 @@
+                       732496589a:2:{s:6:"output";s:8387:"			<div class="componentheading">
+			Régional			</div>
+					<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" class="contentpane">
+					<tr>
+				<td width="60%" valign="top" class="contentdescription" colspan="2">
+								</td>
+			</tr>
+					<tr>
+			<td width="100%">
+					<form action="http://www.lc78-escrime.com/content/category/5/28/39/" method="post" name="adminForm">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+				<td colspan="4">
+					<table>
+					<tr>
+													<td align="right" width="100%" nowrap="nowrap">
+								Filtre&nbsp;								<input type="text" name="filter" value="" class="inputbox" onchange="document.adminForm.submit();" />
+							</td>
+														<td align="right" width="100%" nowrap="nowrap">
+								&nbsp;&nbsp;&nbsp;Trier&nbsp;
+<select name="order" class="inputbox" size="1"  onchange="document.adminForm.submit();">
+	<option value="date">Date asc</option>
+	<option value="rdate" selected="selected">Date desc</option>
+	<option value="alpha">Titre asc</option>
+	<option value="ralpha">Titre desc</option>
+	<option value="hits">Clics asc</option>
+	<option value="rhits">Clics desc</option>
+	<option value="author">Auteur asc</option>
+	<option value="rauthor">Auteur desc</option>
+	<option value="order">Ordre</option>
+</select>
+							</td>
+														<td align="right" width="100%" nowrap="nowrap">
+								&nbsp;&nbsp;&nbsp;Affiche #&nbsp;
+<select name="limit" class="inputbox" size="1" onchange="document.location.href='http://www.lc78-escrime.com/content/category/5/28/39/' + this.options[selectedIndex].value + '/50/';">
+	<option value="5">5</option>
+	<option value="10">10</option>
+	<option value="15">15</option>
+	<option value="20">20</option>
+	<option value="25">25</option>
+	<option value="30">30</option>
+	<option value="50" selected="selected">50</option>
+</select>
+							</td>
+												</tr>
+					</table>
+				</td>
+			</tr>
+						<tr>
+									<td class="sectiontableheader" width="35%">
+						Date					</td>
+										<td class="sectiontableheader">
+						Titre de la publication					</td>
+										<td class="sectiontableheader" align="left" width="25%">
+						Auteur					</td>
+										<td align="center" class="sectiontableheader" width="5%">
+						Clics					</td>
+								</tr>
+						<tr class="sectiontableentry1" >
+									<td>
+					17-11-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/217/39/">
+						EDM Coupe de ligue Beaumont sur Oise 16/11/2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					316					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					17-11-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/216/39/">
+						EDB Coupe de ligue Beaumont sur oise 16/11/2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					290					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					17-11-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/215/39/">
+						EHB Coupe de ligue Beaumont sur oise 16/11/2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					289					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					17-11-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/214/39/">
+						EDS 1ere zone IDF 16 NOVEMBRE 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					320					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					13-10-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/193/39/">
+						EHS Challenge Henri IV Mantes 12 octobre 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					327					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					13-10-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/192/39/">
+						EDS Challenge Henri IV Mantes 12 octobre 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					317					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					12-10-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/191/39/">
+						EHC Challenge Henri IV Mantes le 11 octobre 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					308					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					12-10-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/190/39/">
+						EDC Challenge Henri IV Mantes le 11 octobre 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					296					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					12-10-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/189/39/">
+						EHM Challenge Henri IV Mantes le 11 octobre 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					307					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					12-10-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/188/39/">
+						EDM challenge Henri IV Mantes le 11 octobre 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					304					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					29-09-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/186/39/">
+						EDJ championnat ligue 28/09/2008 Saint Gratien						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					320					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					29-09-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/185/39/">
+						EHJ championnat ligue 28/09/2008 Saint Gratien						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					313					</td>
+						</tr>
+					<tr>
+				<td colspan="4">&nbsp;</td>
+			</tr>
+			<tr>
+				<td align="center" colspan="4" class="sectiontablefooter">
+				<a href="http://www.lc78-escrime.com/content/category/5/28/39/50/0/" class="pagenav" title="Début">&lt;&lt;&nbsp;Début</a> <a href="http://www.lc78-escrime.com/content/category/5/28/39/50/0/" class="pagenav" title="Précédente">&lt;&nbsp;Précédente</a> <a href="http://www.lc78-escrime.com/content/category/5/28/39/50/0/" class="pagenav"><strong>1</strong></a> <span class="pagenav">2</span> <span class="pagenav">Suivante&nbsp;&gt;</span> <span class="pagenav">Fin&nbsp;&gt;&gt;</span>				</td>
+			</tr>
+			<tr>
+				<td colspan="4" align="right">
+				Résultats 51 - 62 sur 62				</td>
+			</tr>
+					</table>
+		<input type="hidden" name="id" value="28" />
+		<input type="hidden" name="sectionid" value="5" />
+		<input type="hidden" name="task" value="category" />
+		<input type="hidden" name="option" value="com_content" />
+		</form>
+					</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+					<ul>
+						<li>
+											<a href="http://www.lc78-escrime.com/content/category/5/32/39/" class="category">
+							Archives 2007-2008</a>
+													&nbsp;<i>( 57 items )</i>
+											</li>
+								<li>
+											<a href="http://www.lc78-escrime.com/content/category/5/29/39/" class="category">
+							International</a>
+													&nbsp;<i>( 7 items )</i>
+											</li>
+								<li>
+											<a href="http://www.lc78-escrime.com/content/category/5/26/39/" class="category">
+							National</a>
+													&nbsp;<i>( 28 items )</i>
+											</li>
+						</ul>
+					</td>
+		</tr>
+		</table>
+					<div class="back_button">
+				<a href='javascript:history.go(-1)'>
+					[&nbsp;Retour&nbsp;]</a>
+			</div>
+			";s:6:"result";N;}

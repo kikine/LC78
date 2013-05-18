@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall version="4.5.2" type="mambot" group="content">
+	<name>Analytics</name>
+	<author>JoomlaFrance</author>
+	<creationDate>Nov 2005</creationDate>
+	<copyright>(C) 2000 - 2005 Joomlafrance</copyright>
+	<license>GNU / GPL</license>
+	<authorEmail>contact@joomlafrance.org</authorEmail>
+	<authorUrl>www.joomlafrance.org</authorUrl>
+	<version>1.0.0 fr</version>
+	<description><![CDATA[
+	<img src="../mambots/content/analytics/shot_analytics.jpg" alt=""><br><br>
+	Content bot: <br> - Ce Mambot vous permet d'insérer le code de tracking Google Analytics dans la partie HEAD de votre page <br>- Vous devez editer les paramètres du mambot et entre l'ID de votre site<br>
+    - Pensez à publier le bot<br><br>Voici un exemple du code fournit par google analytics l'ors de l'ajout d'un site au service. C'est la partie surlignée que vous devez utiliser comme ID. <br>
+    <img src="../mambots/content/analytics/shot_code_analytics.jpg" alt=""><br><br>
+    <a href="https://www.google.com/analytics" target=_blank>Créez gratuitement votre compte GOOGLE Analytics</a><br>
+    <a href="http://www.joomlafrance.org" target=_blank>Visitez JoomlaFrance.org pour plus d'informations</a><br><br>]]>
+	
+</description>
+	<files>
+		<filename mambot="analytics">analytics.php</filename>
+		<filename mambot="analytics">analytics/shot_code_analytics.jpg</filename>
+		<filename mambot="analytics">analytics/shot_analytics.jpg</filename>
+	</files>
+	<params>
+	<param name="analytics"  type="text" default="xx-xxxxxx-x" label="Google Analytics ID" description="Please insert the given by google analytics when you register you site" /> 
+   </params>
+</mosinstall>

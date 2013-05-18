@@ -1,0 +1,167 @@
+body{
+	background-color:#DDF3EB;
+}
+
+/*table {
+	text-align:center;
+	border: 3px solid black;
+	border-collapse: collapse;
+}*/
+
+.centrage {
+	position:absolute;
+    left: 50%; 
+    top: 50%;
+    width: 700px;
+    height: 400px;
+    margin-top: -200px; /* moitié de la hauteur */
+    margin-left: -350px; /* moitié de la largeur */
+    text-align:center;
+	/* border: 1px solid #000;*/
+	font-weight:bolder;
+}
+
+.tableau{
+	margin-top:15px;
+	margin-left:25px;
+	border: 2px solid black;
+	border-collapse: collapse;
+	font-size: 0.9em;
+}
+.tableau tr,
+.tableau td {
+	border: 1px solid black;
+	padding: 0.5em 1em;
+	text-align: center;
+}
+
+.tableau a {
+	color:black;
+	text-decoration:none;
+}
+
+.prem tr, .prem td{
+	border:2px solid black;
+	font-weight:bolder;
+}
+
+img {
+	margin-left:20px;
+	margin-right:20px;
+	border:none;
+}
+
+a {
+	text-decoration:none;
+	color:black;
+}
+
+a:visited{
+	text-decoration:none;
+	color:black;
+}
+
+a:hover{
+	text-decoration:overline underline;
+}
+.minimes{
+	background-color:#FFFF00;
+}
+
+.cadets {
+	background-color:#FF9933;
+}
+
+.juniors{
+	background-color:#00CC66;
+}
+.seniors
+{
+	background-color:#C0C0C0;
+}
+
+form {
+	margin: 1em 20%;
+}
+table form {
+	margin: 0px;
+}
+form .input-txt {
+	background-image: url(images/input_shadow.gif);
+	border: 1px solid #cccccc;
+	border-color: #999999 #cccccc #cccccc #999999;
+	padding: 2px 1em;
+	width: 40%;
+}
+
+input:focus{
+background-color:#cccccc;
+font-weight:bolder;
+}
+
+form div {
+	background-color: #fbf7f1;
+	border: 1px solid white;
+	border-color: #ffffff #e6ded1 #d5cdbf #ffffff;
+	padding: 2px 10px;
+	color: #663300;
+}
+form div:after {
+	content: "."; 
+	display: block; 
+	height: 0; 
+	clear: both; 
+	visibility: hidden;
+}
+	/* Hides from IE-mac \*/
+	* html form div {height: 1%;}
+	/* End hide from IE-mac */
+
+
+form label {
+	display: block;
+	float: left;
+	width: 45%;
+	text-align: right;
+	padding: 3px 1em;
+	padding-left: 0px;
+}
+form .form-control {	
+	text-align: center;
+}
+
+.form-submit,
+.form-reset,
+.form-help {
+margin-top:5px;
+margin-bottom:5px;
+	background-color: #f1f1f1;
+	border: 1px solid black;
+	font-weight: bold;
+}
+
+.form-submit:hover {
+	background-color: #000;
+	color:LimeGreen;
+	font-style:italic;
+}
+.form-reset:hover {
+	background-color: #000;
+	color:red;
+	font-style:italic;
+}
+
+.form-help:hover{
+	background-color: #000;
+	color:orange;
+	font-style:italic;
+}
+
+legend{
+	font-weight:bold;
+}
+
+fieldset{
+	width:640px;
+	margin-bottom:15px;
+}

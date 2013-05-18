@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
+<CREATION3D>
+
+
+// fond
+
+<bg_color>ffffff</bg_color> // couleur de fond
+
+<fond_trans>0</fond_trans> // fond transparent : 0 - oui 1 - non
+
+<bg_image>0</bg_image> // image de fond de la galerie , 0 si vous ne voulez pas d'image
+
+
+// elements
+
+<tb_vis>1</tb_vis> // miniatures visible : 0 - non 1 - oui
+
+<bt_zoom>1</bt_zoom> // bouton zoom visible : 0 - non 1 - oui
+
+<cptpages_vis>0</cptpages_vis> // detail numerique des images et pages visible : 0 - non 1 - oui
+
+<bt_diapo>1</bt_diapo> // bouton de lecture automatique ou pause visible : 0 - non 1 - oui
+
+<bt_vitdiapo>1</bt_vitdiapo> // boutons de vitesse de la lecture automatique visibles : 0 - non 1 - oui
+
+<url_animintro></url_animintro> // emplacement de l'image ou l'animation swf qui doit être jouée à l'entrée de la galerie - laisser vide pour aucune introduction
+<temps_animintro>0</temps_animintro> // temps en secondes durant lequel l'introduction doit être jouée - peut être remplacé par l'envoi de la variable _root.introfini=1 depuis l'animation swf en fin d'animation
+
+
+// historique : mémorisation des images consultées par l'utilisateur 
+// attention, si vous voulez utiliser cette fonction, utilisez un nom différent pour chacune de vos images
+
+<historique>1</historique> // affichage particulier pour les images déjà consultées : 0 - sans affichage 1 - mise en mémoire sur la session 2 - mise en mémoire sur le poste de l'utilisateur pour une durée illimitée via un cookie flash
+<historique_color>ffffff</historique_color> // couleur apparaissant sur les miniatures des images déjà consultées
+<historique_transp>30</historique_transp> // niveau de transparence de la couleur apparaissant sur les miniatures des images déjà consultées (de 0 à 100)
+
+
+// style
+
+<sh_menu>1</sh_menu> // menu 1:oui 0:non sans menu la galerie affiche le 1er repertoire
+
+<an_menu>1</an_menu> // animation lors de l'apparition des menus 1:oui 0:non
+
+<pos_menu>0</pos_menu> // position du menu 0:menu flottant 1:gauche 2:milieu 3:droite - si le menu contient plus de 5 items il devient obligatoirement flottant
+
+<style_menu>1</style_menu> // style du menu 0:texte seul 1:vagues 2:contours arrondis 3:cadre simple
+
+<taillet_menu>10</taillet_menu> // taille des textes du menu
+
+
+<style_fen>1</style_fen> // style des cadres des images agrandies : 0 - sans 1 - arrondi ou 2 - carre
+
+<deg_fen>1</deg_fen> // degrades sur les cadres des images agrandies : 0 - sans 1 - avec
+
+<dp_speed0>3</dp_speed0> // temps d'apparition de la grande image en transparence de 1 à l'infini
+<dp_speed1>2</dp_speed1> // temps d'apparition des contours de la grande image de 1 à l'infini
+<dp_speed2>3</dp_speed2> // temps de disparition de la grande image en zoom de 1 à l'infini
+<dp_speed3>3</dp_speed3> // temps de disparition des contours de la grande image de 1 à l'infini
+
+<style_thumb>1</style_thumb> // style des cadres des miniatures : 0 - sans 1 - arrondi ou 2 - carre
+
+<deg_thumb>1</deg_thumb> // degrades sur cadres des miniatures : 0 - sans 1 - avec
+
+<an_thumb>1</an_thumb> // animation lors de l'apparition des miniatures 1:oui 0:non
+
+<highlight_trans>100</highlight_trans> // opacité du dégradé qui apparait sous l'image agrandie, 0:transparent 100:opaque 
+
+<demarauto>0</demarauto> // ouverture automatique de la 1ere image agrandie au lancement de la galerie et a l'ouverture d'un repertoire : 0 - non 1 - oui
+
+<diapoauto>1</diapoauto> // lecture automatique des images agrandies : 0 - non 1 - oui
+
+<tdiapo>4</tdiapo> // duree par defaut entre chaque image en lecture automatique en secondes : de 1 à l'infini
+
+
+<diap_numbh>6</diap_numbh> // nombre de miniatures dans une ligne
+<diap_numbv>3</diap_numbv> // nombre de lignes de miniatures par page
+
+<diap_espaceh>8</diap_espaceh> // espace horizontal entre chaque miniature en pixels
+<diap_espacev>6</diap_espacev> // espace vertical entre chaque miniature en pixels
+
+<diap_alphaoff>20</diap_alphaoff> // transparence de l'image miniature lorsque la souris n'est pas dessus, 0:opaque 100:transparent
+<diap_alphaover>0</diap_alphaover> // transparence de l'image miniature lorsque la souris passe dessus, 0:opaque 100:transparent
+
+
+<diap_place>1</diap_place> // alignement des miniatures, 1: centrées 2: à gauche 3: à droite 4: justifiées (espace maximum de gauche à droite)
+
+<largeurmax_gdeimage>700</largeurmax_gdeimage> // largeur maximum que peut prendre l'image agrandie en pixels, maximum : 700
+<hauteurmax_gdeimage>350</hauteurmax_gdeimage> // hauteur maximum que peut prendre l'image agrandie en pixels, maximum : 350
+
+<place_grandeimage>1</place_grandeimage> // emplacement de l'image agrandie, 1: centrée 2: à gauche 3: à droite
+<place_grandeimagev>1</place_grandeimagev> // emplacement vertical de l'image agrandie, 1: centrée 2: en haut 3: en bas
+
+<deplacementy_menu>0</deplacementy_menu> // deplacement vertical total du menu, en pixels, positif ou negatif
+
+<deplacementx_diaps>0</deplacementx_diaps> // deplacement horizontal total des miniatures, en pixels, positif ou negatif
+<deplacementy_diaps>0</deplacementy_diaps> // deplacement horizontal total des miniatures, en pixels, positif ou negatif
+
+<im_bt_imageoff></im_bt_imageoff> // emplacement le l'image du bouton image suivante / image précédente en état normal - laisser vide pour voir les boutons originaux - zone de réactivité = environ 35x35 pixels
+<im_bt_imageovr></im_bt_imageovr> // emplacement le l'image du bouton image suivante / image précédente en état survolé - laisser vide pour voir les boutons originaux - zone de réactivité = environ 35x35 pixels
+
+<im_bt_pageoff></im_bt_pageoff> // emplacement le l'image du bouton page suivante / page précédente en état normal - laisser vide pour voir les boutons originaux - zone de réactivité = environ 35x35 pixels
+<im_bt_pageovr></im_bt_pageovr> // emplacement le l'image du bouton page suivante / page précédente en état survolé - laisser vide pour voir les boutons originaux - zone de réactivité = environ 35x35 pixels
+
+<depx_bt_imageprec>0</depx_bt_imageprec> // deplacement horizontal en pixel, positif ou negatif du bouton image précédente par rapport à sa position par défaut
+<depy_bt_imageprec>0</depy_bt_imageprec> // deplacement vertical en pixel, positif ou negatif du bouton image précédente par rapport à sa position par défaut
+<depx_bt_imagesuiv>0</depx_bt_imagesuiv> // deplacement horizontal en pixel, positif ou negatif du bouton image suivante par rapport à sa position par défaut
+<depy_bt_imagesuiv>0</depy_bt_imagesuiv> // deplacement vertical en pixel, positif ou negatif du bouton image suivante par rapport à sa position par défaut
+
+
+<depx_bt_pageprec>0</depx_bt_pageprec> // deplacement horizontal en pixel, positif ou negatif du bouton page précédente par rapport à sa position par défaut
+<depy_bt_pageprec>0</depy_bt_pageprec> // deplacement vertical en pixel, positif ou negatif du bouton page précédente par rapport à sa position par défaut
+<depx_bt_pagesuiv>0</depx_bt_pagesuiv> // deplacement horizontal en pixel, positif ou negatif du bouton page suivante par rapport à sa position par défaut
+<depy_bt_pagesuiv>0</depy_bt_pagesuiv> // deplacement vertical en pixel, positif ou negatif du bouton page suivante par rapport à sa position par défaut
+
+
+
+// prechargements
+
+<style_char>1</style_char> // style du prechargement : 1 - barre simple ou 2 - barre et anneaux ou 3 - montre
+
+<pc1_color>ff0000</pc1_color> // couleur du cercle 1 de prechargement style 2
+<pc2_color>0000ff</pc2_color> // couleur du cercle 2 de prechargement style 2
+<pc3_color>00ff00</pc3_color> // couleur du cercle 3 de prechargement style 2
+
+<pc4_color>CC0000</pc4_color> // couleur du cercle  de prechargement style 3
+<pc5_color>FF0000</pc5_color> // couleur des contours de prechargement style 3
+
+<pc6_color>bbbbbb</pc6_color> // couleur de la barre de prechargement des images
+<pc7_color>777777</pc7_color> // couleur du contour de la barre de prechargement des images
+
+// couleurs
+
+<cptpages_color>000000</cptpages_color> // couleur du detail numerique des images et pages
+
+<bt_color>eeeeee</bt_color> // couleur de l'interieur des boutons suivants et precedents
+<btctr_color>bbbbbb</btctr_color> // couleur du contour des boutons suivants et precedents
+<btref_color>ffffff</btref_color> // couleur du reflet des boutons suivants et precedents
+
+
+<cd_color>ffffff</cd_color> // couleur des cadres des images agrandies
+<ctr_color>bbbbbb</ctr_color> // couleur du contour des cadres des images agrandies
+<tb_color>ffffff</tb_color> // couleur des cadres des miniatures
+<tbctr_color>bbbbbb</tbctr_color> // couleur du contour des cadres des miniatures
+
+<mn_color>aaaaaa</mn_color> // couleur du cadre des items du menu (non disponible sur le style 1)
+<mnov_color>cccccc</mnov_color> // couleur du cadre des items du menu pour l'item selectionne (non disponible sur le style 1)
+<tm_color>111111</tm_color> // couleur du texte des items du menu
+
+<fond_logo>ffffff</fond_logo> // couleur du fond du logo creation 3d
+<coul_logo>000000</coul_logo> // couleur du texte du logo creation 3d, si les couleurs fond et texte sont trop semblables, le logo reprendra des couleurs différentes
+
+<fond_zoom>ffffff</fond_zoom> // couleur du fond des boutons agrandir-enregistrer, play-pause et vitesse de deroulement
+<coul_zoom>000000</coul_zoom> // couleur de l'illustraion des boutons agrandir-enregistrer, play-pause et vitesse de deroulement
+
+// copyright
+
+<cpr>0</cpr> // copyright 1:oui 0:non
+<cpr_texte><![CDATA[                                                                 © WWW.CREATION3D.ORG 2005      ]]></cpr_texte> //texte du copyright - utilisez des espaces pour caler le texte comem vous le voulez
+<cpr_color>ffaaaa</cpr_color> // couleur du texte du copyright
+<cpr_trans>100</cpr_trans> // opacité du texte du copyright, 0:transparent 100:opaque
+
+// bandeau deroulant
+
+<sh_bandeau>0</sh_bandeau> // bandeau 1:oui 0:non
+<texte_bandeau><![CDATA[TOUTES LES PHOTOS QUE VOUS VOYEZ SUR CE SITE ONT ETE PRISES AVEC UN APPAREIL PHOTO DSC F828]]></texte_bandeau> // contenu du bandeau
+
+<bandtt_color>FFCCCC</bandtt_color> // couleur du texte du bandeau
+<band_color>440000</band_color> // couleur du fond du bandeau
+<bandctr_color>ffbbbb</bandctr_color> // couleur du contour du bandeau
+<band_speed>2</band_speed> // vitesse de defilement du texte du bandeau
+
+// commentaires
+
+<style_comm>1</style_comm> // affichage des commentaires 0:toujours 1:en roll over de l'image agrandie
+
+<pos_comm>2</pos_comm> // position des commentaires 0:flottants 1:gauche 2:milieu 3:droite
+
+<comm_color>ffffff</comm_color> // couleur du cadre des commentaires
+<comm_txt_color>000000</comm_txt_color> // couleur du texte des commentaires
+<comm_ctr_color>bbbbbb</comm_ctr_color> // couleur des contours du cadre des commentaires
+<comm_trans>90</comm_trans> // opacité du cadre des commentaires, 0:transparent 100:opaque
+
+
+<comauto>0</comauto> // commentaires automatiques, 0:non 1:oui 
+<comm_txt_auto><![CDATA[image n°# : {]]></comm_txt_auto> // textes en commentaires automatiques. # renvoie le numero de l'image dans le repertoire, { renvoie le nom du fichier (_ devient un espace)
+
+<c_monimage02><![CDATA[blabla et bl]]></c_monimage02> // exemple de commentaire sur une image nommée monimage02.jpg
+<c_monimage03><![CDATA[blabla et blalbla  et blalbla et blalbla et blalbla<br> et blalbla et blalbla]]></c_monimage03> // exemple de commentaire sur une image nommée monimage03.jpg
+
+// envoi d'informations
+// valeurs envoyées en POST : $dname = nom du fichier image - $dgal = nom du répertoire - $dinfos = contenu de la balise in_ - $dcomments = contenu de la balise c_ (commentaires)
+
+<url_envoiinfos></url_envoiinfos> // URL vers lequel envoyer les informations lorsque l'utilisateur clique sur le bouton d'envoi d'informations (caddie)
+<envoiinfos>0</envoiinfos> // Envoi d'informations : 0 - pas d'envoi 1 - envoi en arrière plan (page invisible pour l'utilisateur) 2 - ouverture de la nouvelle page dans la même fenêtre 3 - _blank ouverture de la nouvelle page dans une nouvelle fenêtre
+<posenvoiinfos>1</posenvoiinfos> // place du bouton d'envoi d'informations (caddie) 1 - à droite de l'image agrandie 2 - à gauche de l'image agrandie 3 - centré sur l'image agrandie
+
+<im_envoiinfosoff></im_envoiinfosoff> // emplacement de l'image du bouton d'envoi d'informations en état normal - laisser vide pour voir le bouton original - zone de réactivité = environ 23x23 pixels
+<im_envoiinfosovr></im_envoiinfosovr> // emplacement de l'image du bouton d'envoi d'informations en état survolé - laisser vide pour voir le bouton original - zone de réactivité = environ 23x23 pixels
+
+<coul_envinfos>000000</coul_envinfos> // couleur du bouton d'envoi d'informations
+<fond_envinfos>ffffff</fond_envinfos> // couleur du fond du bouton d'envoi d'informations
+
+<in_monimage02><![CDATA[blabla et bl]]></in_monimage02>  // exemple de contenu envoyé à la variable $dinfos sur une image nommée monimage02.jpg
+
+
+</CREATION3D>

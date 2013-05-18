@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>Envoyer votre candidature</title>
+</head>
+<center><body>
+<h1><font color="#336699" size="5" face="Verdana, Arial, Helvetica, sans-serif"><strong>  </strong></font></h1>
+<h1><font color="#336699" size="5" face="Verdana, Arial, Helvetica, sans-serif"><strong><table width="88%" border="1">
+    <tr>
+      <td><h1><font color="#336699" size="5" face="Verdana, Arial, Helvetica, sans-serif"><strong><br>
+              <br>
+         &nbsp; Envoyer
+              votre candidature</strong></font></h1>
+        <form action="mail.php" method="POST" enctype="multipart/form-data">
+          <p><strong><font color="#336699" size="2" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;&nbsp;&nbsp; Votre
+                adresse E-mail :</font></strong>
+            <input type="text" name="from" value="" size="35"/>
+            <br />
+            <br>
+            <font color="#336699" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>&nbsp;&nbsp;&nbsp; Sujet
+            :</strong></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <input type="text" name="subject" value="" size="35"/>
+        <br>
+          </p>
+          <p><font color="#336699" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>&nbsp;&nbsp;&nbsp; Message
+                :</strong></font><br />
+            &nbsp;&nbsp;    
+            <textarea cols="70" rows="20" name="message"></textarea>
+          </p>
+          <p><strong><font color="#336699" size="2" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;&nbsp;&nbsp; Votre
+                CV : </font></strong>
+            <input type="hidden" name="MAX_FILE_SIZE" value="100000">
+            <input type="file" name="fileatt" size="35"/>
+&nbsp;&nbsp; <font color="#FF0000" size="2" face="Verdana, Arial, Helvetica, sans-serif">*
+  Attention Fichier max de 100 Ko</font><br>
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <input name="submit" type="submit" value="Send" />
+          </p>
+      </form></td>
+    </tr>
+        </table>
+</strong></font></h1>
+</body></center>
+</html>

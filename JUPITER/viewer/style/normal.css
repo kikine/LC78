@@ -1,0 +1,57 @@
+body {
+	padding-right: 0px; 
+	padding-left: 0px; 
+	font-size: 12px; 
+	background: url(images/fond.jpg) #6c6c6c repeat-x left top; 
+	padding-bottom: 0px; 
+	margin: 0px; 
+	color: #666666; 
+	padding-top: 0px; 
+	font-family: verdana, tahoma, arial, sans-serif; 
+	height: 100%;
+	width:760px;
+}
+hr {
+	border: #e97311 1px dashed;
+	padding:0px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	float: left; 
+	width: 700px; 
+	
+}
+h1 {
+	padding-right: 0px; 
+	padding-left: 25px; 
+	/*background: url(images/puce.gif) no-repeat left center; */
+	padding-bottom: 0px; 
+	margin: 0px; 
+	font: 20pt verdana, sans-serif; 
+	/*width: 295px; */
+	color: #fff; 
+	padding-top: 10px; 
+	letter-spacing: 7px; 
+	position: relative;
+}
+h1:first-letter {
+	color: #e97311
+}
+
+h3 {
+	color:Lime;
+	text-align:center;
+}
+
+.content {
+	padding-top:50px;
+	margin-left:10%;
+}
+
+a {
+	color: #bfb;
+}
+
+.video {
+	padding-top:75px;
+	margin-left:50px;
+}

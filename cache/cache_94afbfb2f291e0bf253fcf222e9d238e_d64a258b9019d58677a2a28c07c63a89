@@ -1,0 +1,440 @@
+                      -545772058a:2:{s:6:"output";s:13838:"			<div class="componentheading">
+			National			</div>
+					<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" class="contentpane">
+					<tr>
+				<td width="60%" valign="top" class="contentdescription" colspan="2">
+								</td>
+			</tr>
+					<tr>
+			<td width="100%">
+					<form action="http://www.lc78-escrime.com/content/category/5/26/39/" method="post" name="adminForm">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+				<td colspan="4">
+					<table>
+					<tr>
+													<td align="right" width="100%" nowrap="nowrap">
+								Filtre&nbsp;								<input type="text" name="filter" value="" class="inputbox" onchange="document.adminForm.submit();" />
+							</td>
+														<td align="right" width="100%" nowrap="nowrap">
+								&nbsp;&nbsp;&nbsp;Trier&nbsp;
+<select name="order" class="inputbox" size="1"  onchange="document.adminForm.submit();">
+	<option value="date">Date asc</option>
+	<option value="rdate" selected="selected">Date desc</option>
+	<option value="alpha">Titre asc</option>
+	<option value="ralpha">Titre desc</option>
+	<option value="hits">Clics asc</option>
+	<option value="rhits">Clics desc</option>
+	<option value="author">Auteur asc</option>
+	<option value="rauthor">Auteur desc</option>
+	<option value="order">Ordre</option>
+</select>
+							</td>
+														<td align="right" width="100%" nowrap="nowrap">
+								&nbsp;&nbsp;&nbsp;Affiche #&nbsp;
+<select name="limit" class="inputbox" size="1" onchange="document.location.href='http://www.lc78-escrime.com/content/category/5/26/39/' + this.options[selectedIndex].value + '/0/';">
+	<option value="5">5</option>
+	<option value="10">10</option>
+	<option value="15">15</option>
+	<option value="20">20</option>
+	<option value="25">25</option>
+	<option value="30">30</option>
+	<option value="50" selected="selected">50</option>
+</select>
+							</td>
+												</tr>
+					</table>
+				</td>
+			</tr>
+						<tr>
+									<td class="sectiontableheader" width="35%">
+						Date					</td>
+										<td class="sectiontableheader">
+						Titre de la publication					</td>
+										<td class="sectiontableheader" align="left" width="25%">
+						Auteur					</td>
+										<td align="center" class="sectiontableheader" width="5%">
+						Clics					</td>
+								</tr>
+						<tr class="sectiontableentry1" >
+									<td>
+					15-11-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/419/39/">
+						EHV1 Circuit National   Laval  15/11/2009						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					273					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					15-11-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/418/39/">
+						EDV1 Circuit national  Laval 15/11/2009						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					237					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					09-11-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/413/39/">
+						EHS Circuit national 1 Laon 07/08 Novembre 2009						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					239					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					09-11-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/412/39/">
+						EDS Circuit national 1 Limoges 08/11/2009						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					227					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					31-05-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/364/39/">
+						EHM Fête des jeunes 30/05/2009 Paris						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					295					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					31-05-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/363/39/">
+						EDM Fête des jeunes 30/05/2009 Paris						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					293					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					03-05-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/348/39/">
+						EDS Circuit national  04 mai 2009 Rodez						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					332					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					26-04-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/342/39/">
+						EDC Circuit national 1 Aix en Provence 26/04/2009						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					299					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					05-04-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/334/39/">
+						EDS TIPIF 2009  Paris 05/04/2009						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					333					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					05-04-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/333/39/">
+						EHM 1/2 Finale Nantes  05/04/2009						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					317					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					05-04-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/332/39/">
+						EDM 1/2 Finale Nantes  05/04/2009						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					344					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					30-03-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/328/39/">
+						EDJ Circuit national 1 Colmar 29/03/2009						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					302					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					30-03-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/327/39/">
+						EHJ Circuit national 1 Colmar 29/03/2009						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					312					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					23-03-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/323/39/">
+						EDC Circuit national 1 Douai 22/03/2009						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					532					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					08-03-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/283/39/">
+						EDS Circuit national 1 Villeurbanne 08/03/2009						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					612					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					08-02-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/261/39/">
+						EHS Circuit national strasbourg 07/08 février 2009						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					594					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					01-02-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/257/39/">
+						EDJ Circuit National 1  Toulouse 01/02/2009						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					650					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					01-02-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/256/39/">
+						EHJ Circuit National 1 Toulouse 01/02/2009						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					598					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					12-01-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/241/39/">
+						EDS Circuit National Gradignan 11 janvier 2009						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					609					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					07-12-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/229/39/">
+						EDS Championnat de France N1 Livry Gargan 06/12/2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					338					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					23-11-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/221/39/">
+						EDS Circuit national Monaco 23 novembre 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					353					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					18-11-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/220/39/">
+						EHV Circuit National V2 Montélimar le 16/11/2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					337					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					18-11-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/219/39/">
+						EDV Circuit National V1 Montélimar le 16/11/2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					344					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					10-11-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/210/39/">
+						EHS Circuit national Laon le 8/9 novembre 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					352					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					29-10-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/208/39/">
+						EDS Circuit national Limoges 26 octobre 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					309					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					29-10-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/207/39/">
+						EDS Circuit national Limoges 26 octobre 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					340					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					15-10-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/194/39/">
+						EDS Circuit national MACON 12 octobre 2008						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					748					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					06-10-2008					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/187/39/">
+						EHS Circuit National senior 05/10/2008 Livry Gargan						</a>
+												</td>
+											<td align="left">
+					Lionel Laudereau					</td>
+										<td align="center">
+					447					</td>
+						</tr>
+					<tr>
+				<td colspan="4">&nbsp;</td>
+			</tr>
+			<tr>
+				<td align="center" colspan="4" class="sectiontablefooter">
+				<span class="pagenav">&lt;&lt;&nbsp;Début</span> <span class="pagenav">&lt;&nbsp;Précédente</span> <span class="pagenav">1</span> <span class="pagenav">Suivante&nbsp;&gt;</span> <span class="pagenav">Fin&nbsp;&gt;&gt;</span>				</td>
+			</tr>
+			<tr>
+				<td colspan="4" align="right">
+				Résultats 1 - 28 sur 28				</td>
+			</tr>
+					</table>
+		<input type="hidden" name="id" value="26" />
+		<input type="hidden" name="sectionid" value="5" />
+		<input type="hidden" name="task" value="category" />
+		<input type="hidden" name="option" value="com_content" />
+		</form>
+					</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+					<ul>
+						<li>
+											<a href="http://www.lc78-escrime.com/content/category/5/32/39/" class="category">
+							Archives 2007-2008</a>
+													&nbsp;<i>( 57 items )</i>
+											</li>
+								<li>
+											<a href="http://www.lc78-escrime.com/content/category/5/29/39/" class="category">
+							International</a>
+													&nbsp;<i>( 7 items )</i>
+											</li>
+								<li>
+											<a href="http://www.lc78-escrime.com/content/category/5/28/39/" class="category">
+							Régional</a>
+													&nbsp;<i>( 62 items )</i>
+											</li>
+						</ul>
+					</td>
+		</tr>
+		</table>
+					<div class="back_button">
+				<a href='javascript:history.go(-1)'>
+					[&nbsp;Retour&nbsp;]</a>
+			</div>
+			";s:6:"result";N;}

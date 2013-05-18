@@ -1,0 +1,28 @@
+table#sample {
+    margin-top:15px;
+	margin-left:25px;
+	border: 2px solid black;
+	border-collapse: collapse;
+	font-size: 0.9em;
+
+}
+
+table#sample td {
+    padding: 1em;
+    border: solid black 1px;
+
+}
+
+.data {
+    text-align: center;
+}
+
+.prem {
+    border:2px solid black;
+	font-weight:bolder;
+	text-align:center;
+}
+
+.res {
+    text-align: left;
+}

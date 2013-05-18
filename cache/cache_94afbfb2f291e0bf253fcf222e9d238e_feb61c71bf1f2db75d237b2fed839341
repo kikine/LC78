@@ -1,0 +1,181 @@
+                      1606217786a:2:{s:6:"output";s:5906:"			<div class="componentheading">
+			Minimes			</div>
+					<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" class="contentpane">
+					<tr>
+				<td width="60%" valign="top" class="contentdescription" colspan="2">
+								</td>
+			</tr>
+					<tr>
+			<td width="100%">
+					<form action="http://www.lc78-escrime.com/content/category/7/44/48/" method="post" name="adminForm">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+				<td colspan="4">
+					<table>
+					<tr>
+													<td align="right" width="100%" nowrap="nowrap">
+								Filtre&nbsp;								<input type="text" name="filter" value="" class="inputbox" onchange="document.adminForm.submit();" />
+							</td>
+														<td align="right" width="100%" nowrap="nowrap">
+								&nbsp;&nbsp;&nbsp;Trier&nbsp;
+<select name="order" class="inputbox" size="1"  onchange="document.adminForm.submit();">
+	<option value="date">Date asc</option>
+	<option value="rdate" selected="selected">Date desc</option>
+	<option value="alpha">Titre asc</option>
+	<option value="ralpha">Titre desc</option>
+	<option value="hits">Clics asc</option>
+	<option value="rhits">Clics desc</option>
+	<option value="author">Auteur asc</option>
+	<option value="rauthor">Auteur desc</option>
+	<option value="order">Ordre</option>
+</select>
+							</td>
+														<td align="right" width="100%" nowrap="nowrap">
+								&nbsp;&nbsp;&nbsp;Affiche #&nbsp;
+<select name="limit" class="inputbox" size="1" onchange="document.location.href='http://www.lc78-escrime.com/content/category/7/44/48/' + this.options[selectedIndex].value + '/0/';">
+	<option value="5">5</option>
+	<option value="10">10</option>
+	<option value="15">15</option>
+	<option value="20">20</option>
+	<option value="25" selected="selected">25</option>
+	<option value="30">30</option>
+	<option value="50">50</option>
+</select>
+							</td>
+												</tr>
+					</table>
+				</td>
+			</tr>
+						<tr>
+									<td class="sectiontableheader" width="35%">
+						Date					</td>
+										<td class="sectiontableheader">
+						Titre de la publication					</td>
+										<td class="sectiontableheader" align="left" width="25%">
+						Auteur					</td>
+										<td align="center" class="sectiontableheader" width="5%">
+						Clics					</td>
+								</tr>
+						<tr class="sectiontableentry1" >
+									<td>
+					11-05-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/357/48/">
+						Pauline IBGUI						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					761					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					11-05-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/355/48/">
+						Paul OLIVIER						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					439					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					09-03-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/284/48/">
+						Arthur GOBIN						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					998					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					26-02-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/276/48/">
+						Victor NGUYEN KIM						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					962					</td>
+						</tr>
+					<tr class="sectiontableentry1" >
+									<td>
+					26-02-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/275/48/">
+						Suzanne DE TOURNEMIRE						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					821					</td>
+						</tr>
+					<tr class="sectiontableentry2" >
+									<td>
+					26-02-2009					</td>
+											<td>
+						<a href="http://www.lc78-escrime.com/content/view/274/48/">
+						Pierre DREVILLE						</a>
+												</td>
+											<td align="left">
+					Arnaud Gacoin					</td>
+										<td align="center">
+					511					</td>
+						</tr>
+					<tr>
+				<td colspan="4">&nbsp;</td>
+			</tr>
+			<tr>
+				<td align="center" colspan="4" class="sectiontablefooter">
+				<span class="pagenav">&lt;&lt;&nbsp;Début</span> <span class="pagenav">&lt;&nbsp;Précédente</span> <span class="pagenav">1</span> <span class="pagenav">Suivante&nbsp;&gt;</span> <span class="pagenav">Fin&nbsp;&gt;&gt;</span>				</td>
+			</tr>
+			<tr>
+				<td colspan="4" align="right">
+				Résultats 1 - 6 sur 6				</td>
+			</tr>
+					</table>
+		<input type="hidden" name="id" value="44" />
+		<input type="hidden" name="sectionid" value="7" />
+		<input type="hidden" name="task" value="category" />
+		<input type="hidden" name="option" value="com_content" />
+		</form>
+					</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+					<ul>
+						<li>
+											<a href="http://www.lc78-escrime.com/content/category/7/49/48/" class="category">
+							Dirigeants</a>
+													&nbsp;<i>( 1 items )</i>
+											</li>
+								<li>
+											<a href="http://www.lc78-escrime.com/content/category/7/47/48/" class="category">
+							Seniors</a>
+													&nbsp;<i>( 2 items )</i>
+											</li>
+								<li>
+											<a href="http://www.lc78-escrime.com/content/category/7/45/48/" class="category">
+							Cadets</a>
+													&nbsp;<i>( 8 items )</i>
+											</li>
+								<li>
+											<a href="http://www.lc78-escrime.com/content/category/7/43/48/" class="category">
+							Benjamins</a>
+													&nbsp;<i>( 2 items )</i>
+											</li>
+						</ul>
+					</td>
+		</tr>
+		</table>
+					<div class="back_button">
+				<a href='javascript:history.go(-1)'>
+					[&nbsp;Retour&nbsp;]</a>
+			</div>
+			";s:6:"result";N;}
